@@ -29,3 +29,5 @@ A gitbook about android article...
 ## Library
 
 [用RxJava处理和操作高斯模糊效果的简单用例](https://github.com/SmartDengg/RxBlur)
+
+[Annotation based simple API flavoured with AOP to handle new Android runtime permission model](https://github.com/canelmas/let)
