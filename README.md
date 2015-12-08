@@ -34,6 +34,8 @@ A gitbook about android article...
 
 [Annotation based simple API flavoured with AOP to handle new Android runtime permission model](https://github.com/canelmas/let)
 
+[Android boilerplate app that showcases architecture and libraries used at ribot](https://github.com/ribot/android-boilerplate)
+
 
 ## Code skills & style
 
