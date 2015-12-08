@@ -5,13 +5,15 @@ A gitbook about android article...
 
 ## UI:
 
+[Analyzing UI Performance with Systrace](http://developer.android.com/intl/zh-cn/tools/debugging/systrace.html) (中译[使用Systrace分析UI性能](http://www.devtf.cn/?p=1117))
+
 [实践自定义UI－ViewGroup](http://www.jianshu.com/p/525ccf61db94)
 
 
 
 ## Logic:
 
-[Retrofit 2.0: The biggest update yet on the best HTTP Client Library for Android](http://inthecheesefactory.com/blog/retrofit-2.0/en) 中译[Retrofit 2.0：有史以来最大的改进](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0915/3460.html)
+[Retrofit 2.0: The biggest update yet on the best HTTP Client Library for Android](http://inthecheesefactory.com/blog/retrofit-2.0/en) (中译[Retrofit 2.0：有史以来最大的改进](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0915/3460.html))
 
 [Android Application Architecture](https://medium.com/ribot-labs/android-application-architecture-8b6e34acda65#.ifmxo6h3g)
 
