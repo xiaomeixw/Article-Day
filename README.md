@@ -35,6 +35,6 @@ A gitbook about android article...
 
 ## Code skills & style
 
-https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md
+[project_and_code_guidelines.md](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md)
 
 
