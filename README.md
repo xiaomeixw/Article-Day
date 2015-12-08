@@ -33,7 +33,7 @@ A gitbook about android article...
 [Annotation based simple API flavoured with AOP to handle new Android runtime permission model](https://github.com/canelmas/let)
 
 
-## Code skills
+## Code skills & style
 
 https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md
 
