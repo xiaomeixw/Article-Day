@@ -44,4 +44,6 @@ A gitbook about android article...
 
 [Android Gradle plugin user guide](http://tools.android.com/tech-docs/new-build-system/user-guide#TOC-Project-Structure)
 
+[Android code style guidelines](https://source.android.com/source/code-style.html)
+
 
