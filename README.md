@@ -34,6 +34,12 @@ A gitbook about android article...
 
 ## Library
 
+[JobScheduler is a good feature of Android Lollipop, but what a pity only Lollipop](https://github.com/airk000/Trigger)
+
+[A backport of Android Lollipop's JobScheduler to api 10+](https://github.com/evant/JobSchedulerCompat)
+
+[Using the JobScheduler API on Android Lollipop](https://github.com/tutsplus/Android-JobSchedulerAPI)
+
 [用RxJava处理和操作高斯模糊效果的简单用例](https://github.com/SmartDengg/RxBlur)
 
 [Annotation based simple API flavoured with AOP to handle new Android runtime permission model](https://github.com/canelmas/let)
