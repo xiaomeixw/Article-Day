@@ -61,4 +61,6 @@ A gitbook about android article...
 
 [http://tutsplus.com/](http://tutsplus.com/authors/paul-trebilcox-ruiz)
 
+[http://www.androidpolice.com/](http://www.androidpolice.com/2014/07/01/)
+
 
