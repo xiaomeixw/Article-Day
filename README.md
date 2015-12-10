@@ -53,6 +53,8 @@ A gitbook about android article...
 
 ## Code skills & style
 
+[Do's and Don'ts for Android development, by Futurice developers](https://github.com/futurice/android-best-practices)
+
 [project_and_code_guidelines.md](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md)
 
 
