@@ -13,6 +13,8 @@ A gitbook about android article...
 
 ## Logic:
 
+[AsyncTask的缺陷和问题](http://blog.csdn.net/goodlixueyong/article/details/45895997)
+
 [Android中糟糕的AsyncTask](http://www.kuqin.com/shuoit/20141205/343740.html)
 
 [Using the JobScheduler API on Android Lollipop](http://code.tutsplus.com/tutorials/using-the-jobscheduler-api-on-android-lollipop--cms-23562)
