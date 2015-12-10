@@ -34,6 +34,8 @@ A gitbook about android article...
 
 ## Library
 
+[Let's make language swithching in your app with easy way](https://github.com/akexorcist/Android-LocalizationActivity)
+
 [A collection of quickstart samples demonstrating the Google APIs for Android and iOS](https://github.com/googlesamples/google-services)
 
 [JobScheduler is a good feature of Android Lollipop, but what a pity only Lollipop](https://github.com/airk000/Trigger)
