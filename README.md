@@ -34,6 +34,8 @@ A gitbook about android article...
 
 ## Library
 
+[A collection of quickstart samples demonstrating the Google APIs for Android and iOS](https://github.com/googlesamples/google-services)
+
 [JobScheduler is a good feature of Android Lollipop, but what a pity only Lollipop](https://github.com/airk000/Trigger)
 
 [A backport of Android Lollipop's JobScheduler to api 10+](https://github.com/evant/JobSchedulerCompat)
