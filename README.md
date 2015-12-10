@@ -63,4 +63,8 @@ A gitbook about android article...
 
 [http://www.androidpolice.com/](http://www.androidpolice.com/2014/07/01/)
 
+[Google API](https://developers.google.com/android/reference/packages)
+
+[Implementing GCM Network Manager on Android](https://developers.google.com/cloud-messaging/network-manager)
+
 
