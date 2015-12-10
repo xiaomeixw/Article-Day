@@ -15,7 +15,7 @@ A gitbook about android article...
 
 [AsyncTask的缺陷和问题](http://blog.csdn.net/goodlixueyong/article/details/45895997)
 
-[Android中糟糕的AsyncTask](http://www.kuqin.com/shuoit/20141205/343740.html)
+[the-dark-side-of-asynctask](http://bon-app-etit.blogspot.hk/2013/04/the-dark-side-of-asynctask.html)(中译[Android中糟糕的AsyncTask](http://www.kuqin.com/shuoit/20141205/343740.html))
 
 [Using the JobScheduler API on Android Lollipop](http://code.tutsplus.com/tutorials/using-the-jobscheduler-api-on-android-lollipop--cms-23562)
 
