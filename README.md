@@ -13,6 +13,8 @@ A gitbook about android article...
 
 ## Logic:
 
+[android-databinding-goodbye-presenter-hello-viewmodel](http://tech.vg.no/2015/07/17/android-databinding-goodbye-presenter-hello-viewmodel/)
+
 [TED MOSBY - SOFTWARE ARCHITECT](http://hannesdorfmann.com/android/mosby/)
 
 [AsyncTask 使用和缺陷](http://blog.csdn.net/boyupeng/article/details/49001215)
