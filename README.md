@@ -13,6 +13,8 @@ A gitbook about android article...
 
 ## Logic:
 
+[NotRxJava](http://yarikx.github.io/NotRxJava/)(中译[NotRxJava懒人专用指南](http://www.devtf.cn/?p=323))
+
 [Android-databinding-goodbye-presenter-hello-viewmodel](http://tech.vg.no/2015/07/17/android-databinding-goodbye-presenter-hello-viewmodel/)(中译[Android DataBinding：再见Presenter，你好ViewModel！](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0727/3220.html))
 
 [TED MOSBY - SOFTWARE ARCHITECT](http://hannesdorfmann.com/android/mosby/)
