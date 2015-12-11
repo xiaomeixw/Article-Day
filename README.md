@@ -13,6 +13,8 @@ A gitbook about android article...
 
 ## Logic:
 
+[TED MOSBY - SOFTWARE ARCHITECT](http://hannesdorfmann.com/android/mosby/)
+
 [AsyncTask 使用和缺陷](http://blog.csdn.net/boyupeng/article/details/49001215)
 
 [the-dark-side-of-asynctask](http://bon-app-etit.blogspot.hk/2013/04/the-dark-side-of-asynctask.html)(中译[Android中糟糕的AsyncTask](http://www.kuqin.com/shuoit/20141205/343740.html))
