@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[Data Binding Guide](http://developer.android.com/tools/data-binding/guide.html)
+
 [Analyzing UI Performance with Systrace](http://developer.android.com/intl/zh-cn/tools/debugging/systrace.html) (中译[使用Systrace分析UI性能](http://www.devtf.cn/?p=1117))
 
 [实践自定义UI－ViewGroup](http://www.jianshu.com/p/525ccf61db94)
