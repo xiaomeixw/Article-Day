@@ -46,6 +46,8 @@ A gitbook about android article...
 
 ## Library
 
+[micro framework for building view based modular Android applications](https://github.com/lyft/scoop)
+
 [Let's make language swithching in your app with easy way](https://github.com/akexorcist/Android-LocalizationActivity)
 
 [A collection of quickstart samples demonstrating the Google APIs for Android and iOS](https://github.com/googlesamples/google-services)
