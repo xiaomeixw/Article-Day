@@ -46,6 +46,8 @@ A gitbook about android article...
 
 ## Library
 
+[A Java port of the Faker ruby gem](https://github.com/blocoio/faker)
+
 [Android reactive bluetooth](https://github.com/IvBaranov/RxBluetooth)
 
 [micro framework for building view based modular Android applications](https://github.com/lyft/scoop)
