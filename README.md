@@ -15,6 +15,8 @@ A gitbook about android article...
 
 ## Logic:
 
+[Java线程：新特征-线程池](http://lavasoft.blog.51cto.com/62575/222078/)
+
 [ThreadPoolExecutor运转机制详解](http://blog.csdn.net/cutesource/article/details/6061229)
 
 [Java线程join()方法的用处,多线程同步](http://m.blog.csdn.net/blog/cao478208248/23999433)
