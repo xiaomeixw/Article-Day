@@ -15,6 +15,8 @@ A gitbook about android article...
 
 ## Logic:
 
+[ThreadPoolExecutor运转机制详解](http://blog.csdn.net/cutesource/article/details/6061229)
+
 [Java线程join()方法的用处,多线程同步](http://m.blog.csdn.net/blog/cao478208248/23999433)
 
 [NotRxJava](http://yarikx.github.io/NotRxJava/)(中译[NotRxJava懒人专用指南](http://www.devtf.cn/?p=323))
