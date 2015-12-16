@@ -15,6 +15,8 @@ A gitbook about android article...
 
 ## Logic:
 
+[Java线程join()方法的用处,多线程同步](http://m.blog.csdn.net/blog/cao478208248/23999433)
+
 [NotRxJava](http://yarikx.github.io/NotRxJava/)(中译[NotRxJava懒人专用指南](http://www.devtf.cn/?p=323))
 
 [Android-databinding-goodbye-presenter-hello-viewmodel](http://tech.vg.no/2015/07/17/android-databinding-goodbye-presenter-hello-viewmodel/)(中译[Android DataBinding：再见Presenter，你好ViewModel！](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0727/3220.html))
