@@ -46,6 +46,8 @@ A gitbook about android article...
 
 ## Library
 
+[An Android library for sending fast and clean json request, using volley](https://github.com/alirezaafkar/JsonRequester)
+
 [A Java port of the Faker ruby gem](https://github.com/blocoio/faker)
 
 [Android reactive bluetooth](https://github.com/IvBaranov/RxBluetooth)
