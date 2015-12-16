@@ -46,6 +46,8 @@ A gitbook about android article...
 
 ## Library
 
+[Android reactive bluetooth](https://github.com/IvBaranov/RxBluetooth)
+
 [micro framework for building view based modular Android applications](https://github.com/lyft/scoop)
 
 [Let's make language swithching in your app with easy way](https://github.com/akexorcist/Android-LocalizationActivity)
