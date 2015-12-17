@@ -15,6 +15,8 @@ A gitbook about android article...
 
 ## Logic:
 
+[Java并发编程：线程间协作的两种方式：wait、notify、notifyAll和Condition](http://www.cnblogs.com/dolphin0520/p/3920385.html)
+
 [Java中常用的锁分析总结](http://blog.csdn.net/lantian0802/article/details/8971552)
 
 [java的锁机制](http://blog.csdn.net/yangzhijun_cau/article/details/6432216)
