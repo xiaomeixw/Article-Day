@@ -15,6 +15,8 @@ A gitbook about android article...
 
 ## Logic:
 
+[Java中常用的锁分析总结](http://blog.csdn.net/lantian0802/article/details/8971552)
+
 [java的锁机制](http://blog.csdn.net/yangzhijun_cau/article/details/6432216)
 
 [Java多线程总结之线程安全队列Queue](http://blog.csdn.net/madun/article/details/20313269)
