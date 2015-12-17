@@ -15,6 +15,8 @@ A gitbook about android article...
 
 ## Logic:
 
+[java的锁机制](http://blog.csdn.net/yangzhijun_cau/article/details/6432216)
+
 [Java多线程总结之线程安全队列Queue](http://blog.csdn.net/madun/article/details/20313269)
 
 [阻塞队列和非阻塞队列](http://www.cnblogs.com/linjiqin/archive/2013/05/30/3108188.html)
