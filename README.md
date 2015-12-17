@@ -15,6 +15,8 @@ A gitbook about android article...
 
 ## Logic:
 
+[阻塞队列和非阻塞队列](http://www.cnblogs.com/linjiqin/archive/2013/05/30/3108188.html)
+
 [Callable、Future和FutureTask](http://www.cnblogs.com/dolphin0520/p/3949310.html)
 
 [Java线程：新特征-线程池](http://lavasoft.blog.51cto.com/62575/222078/)
