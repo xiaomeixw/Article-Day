@@ -15,6 +15,8 @@ A gitbook about android article...
 
 ## Logic:
 
+[Callable、Future和FutureTask](http://www.cnblogs.com/dolphin0520/p/3949310.html)
+
 [Java线程：新特征-线程池](http://lavasoft.blog.51cto.com/62575/222078/)
 
 [ThreadPoolExecutor运转机制详解](http://blog.csdn.net/cutesource/article/details/6061229)
