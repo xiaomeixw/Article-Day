@@ -15,6 +15,8 @@ A gitbook about android article...
 
 ## Logic:
 
+[Java并发编程：阻塞队列](http://www.cnblogs.com/dolphin0520/p/3932906.html)
+
 [聊聊并发——生产者消费者模式](http://www.infoq.com/cn/articles/producers-and-consumers-mode/)
 
 [生产者/消费者模式](http://blog.csdn.net/program_think/article/details/4022087)
