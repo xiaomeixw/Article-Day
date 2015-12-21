@@ -15,6 +15,8 @@ A gitbook about android article...
 
 ## Logic:
 
+[Android’s multidex slows down app startup](https://medium.com/groupon-eng/android-s-multidex-slows-down-app-startup-d9f10b46770f#.kniqhwf2j)
+
 [Facebook Flux](https://facebook.github.io/flux/docs/overview.html)
 
 [Flux Architecture on Android](http://lgvalle.xyz/2015/08/04/flux-architecture/)(中译[安卓中的Flux架构](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0816/3311.html))
