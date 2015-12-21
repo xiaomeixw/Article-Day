@@ -135,3 +135,10 @@ A gitbook about android article...
 [技术小黑屋](http://droidyue.com/)
 
 
+## for bolg
+
+[Builder model](https://github.com/lgvalle/android-flux-todo-app/blob/master/app/src/main/java/lgvalle/com/fluxtodo/actions/Action.java)
+
+
+
+
