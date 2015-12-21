@@ -15,6 +15,8 @@ A gitbook about android article...
 
 ## Logic:
 
+[其实你不知道MultiDex到底有多坑](http://zongwu233.github.io/the-touble-of-multidex/)
+
 [Android’s multidex slows down app startup](https://medium.com/groupon-eng/android-s-multidex-slows-down-app-startup-d9f10b46770f#.kniqhwf2j)
 
 [Facebook Flux](https://facebook.github.io/flux/docs/overview.html)
@@ -75,8 +77,6 @@ A gitbook about android article...
 
 
 ## Library
-
-[其实你不知道MultiDex到底有多坑](http://zongwu233.github.io/the-touble-of-multidex/)
 
 [bullet:Provides Dagger1-like ObjectGraph API around Dagger2 Components](https://github.com/tbroyer/bullet/)
 
