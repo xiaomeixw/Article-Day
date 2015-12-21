@@ -76,6 +76,8 @@ A gitbook about android article...
 
 ## Library
 
+[其实你不知道MultiDex到底有多坑](http://zongwu233.github.io/the-touble-of-multidex/)
+
 [bullet:Provides Dagger1-like ObjectGraph API around Dagger2 Components](https://github.com/tbroyer/bullet/)
 
 [An Android library for sending fast and clean json request, using volley](https://github.com/alirezaafkar/JsonRequester)
