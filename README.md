@@ -76,6 +76,8 @@ A gitbook about android article...
 
 ## Library
 
+[bullet:Provides Dagger1-like ObjectGraph API around Dagger2 Components](https://github.com/tbroyer/bullet/)
+
 [An Android library for sending fast and clean json request, using volley](https://github.com/alirezaafkar/JsonRequester)
 
 [A Java port of the Faker ruby gem](https://github.com/blocoio/faker)
