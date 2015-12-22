@@ -80,6 +80,8 @@ A gitbook about android article...
 
 ## Library
 
+[dev-summit-architecture-demo](https://github.com/yigit/dev-summit-architecture-demo)
+
 [bullet:Provides Dagger1-like ObjectGraph API around Dagger2 Components](https://github.com/tbroyer/bullet/)
 
 [An Android library for sending fast and clean json request, using volley](https://github.com/alirezaafkar/JsonRequester)
