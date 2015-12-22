@@ -109,6 +109,8 @@ A gitbook about android article...
 
 ## Code skills & style
 
+[Android Dev Summit 2015](https://www.youtube.com/watch?v=BlkJzgjzL0c&feature=em-subs_digest)
+
 [Do's and Don'ts for Android development, by Futurice developers](https://github.com/futurice/android-best-practices)
 
 [project_and_code_guidelines.md](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md)
@@ -138,6 +140,8 @@ A gitbook about android article...
 
 
 ## for bolg
+
+
 
 [Builder model](https://github.com/lgvalle/android-flux-todo-app/blob/master/app/src/main/java/lgvalle/com/fluxtodo/actions/Action.java)
 
