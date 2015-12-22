@@ -15,6 +15,8 @@ A gitbook about android article...
 
 ## Logic:
 
+[android中Webview与javascript的交互（互相调用）](http://blog.csdn.net/beyond0525/article/details/9374301)
+
 [其实你不知道MultiDex到底有多坑](http://zongwu233.github.io/the-touble-of-multidex/)
 
 [Android’s multidex slows down app startup](https://medium.com/groupon-eng/android-s-multidex-slows-down-app-startup-d9f10b46770f#.kniqhwf2j)
