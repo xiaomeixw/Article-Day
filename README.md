@@ -109,7 +109,7 @@ A gitbook about android article...
 
 ## Code skills & style
 
-[Android Dev Summit 2015](https://www.youtube.com/watch?v=BlkJzgjzL0c&feature=em-subs_digest)
+[Android Application Architecture (Android Dev Summit 2015)](https://www.youtube.com/watch?v=BlkJzgjzL0c&feature=em-subs_digest)
 
 [Do's and Don'ts for Android development, by Futurice developers](https://github.com/futurice/android-best-practices)
 
