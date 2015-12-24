@@ -5,7 +5,7 @@ A gitbook about android article...
 
 ## UI:
 
-[REFACTORING PLAID APP - A REACTIVE MVP APPROACH (PART 1)](http://hannesdorfmann.com/android/plaid-refactored-1/)
+[REFACTORING PLAID APP - A REACTIVE MVP APPROACH (PART 1)](http://hannesdorfmann.com/android/plaid-refactored-1/)(中译[重构 Plaid app - 响应式的MVP模式(一)]([](http://hanks.xyz/2015/12/08/refactoring-plaid-1/)))
 
 [Data Binding Guide](http://developer.android.com/tools/data-binding/guide.html)
 
