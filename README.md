@@ -134,6 +134,8 @@ A gitbook about android article...
 
 ## website
 
+[http://hanks.xyz/archives/](http://hanks.xyz/archives/)
+
 [http://instructure.github.io/blog](http://instructure.github.io/blog)
 
 [maven-search](http://search.maven.org/)
