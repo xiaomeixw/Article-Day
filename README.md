@@ -19,6 +19,8 @@ A gitbook about android article...
 
 ## Logic:
 
+[JAVA Atomic](http://my.oschina.net/u/1412027/blog/196389?p={{currentPage+1}})
+
 [安卓下拉刷新开源库对比](http://www.devtf.cn/?p=1184)
 
 [android中Webview与javascript的交互（互相调用）](http://blog.csdn.net/beyond0525/article/details/9374301)
