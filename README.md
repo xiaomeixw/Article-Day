@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[REFACTORING PLAID APP - A REACTIVE MVP APPROACH (PART 1)](http://hannesdorfmann.com/android/plaid-refactored-1/)
+
 [Data Binding Guide](http://developer.android.com/tools/data-binding/guide.html)
 
 [Analyzing UI Performance with Systrace](http://developer.android.com/intl/zh-cn/tools/debugging/systrace.html) (中译[使用Systrace分析UI性能](http://www.devtf.cn/?p=1117))
