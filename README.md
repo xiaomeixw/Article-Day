@@ -126,11 +126,15 @@ A gitbook about android article...
 
 [Android code style guidelines](https://source.android.com/source/code-style.html)
 
+
 ## Issue
 
 [Plugin with id 'com.neenbedankt.android-apt' not found](https://github.com/Raizlabs/DBFlow/issues/303)
 
+
 ## website
+
+[http://instructure.github.io/blog](http://instructure.github.io/blog)
 
 [maven-search](http://search.maven.org/)
 
