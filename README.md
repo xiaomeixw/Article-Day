@@ -82,6 +82,8 @@ A gitbook about android article...
 
 ## Library
 
+[MasteringAndroidDataBinding](https://github.com/LyndonChin/MasteringAndroidDataBinding)
+
 [dev-summit-architecture-demo](https://github.com/yigit/dev-summit-architecture-demo)
 
 [bullet:Provides Dagger1-like ObjectGraph API around Dagger2 Components](https://github.com/tbroyer/bullet/)
