@@ -19,6 +19,8 @@ A gitbook about android article...
 
 ## Logic:
 
+[不只是给面试加分 -- Java WeakReference的理解与使用](http://www.tuicool.com/articles/imyueq)
+
 [JAVA Atomic](http://my.oschina.net/u/1412027/blog/196389?p={{currentPage+1}})
 
 [安卓下拉刷新开源库对比](http://www.devtf.cn/?p=1184)
