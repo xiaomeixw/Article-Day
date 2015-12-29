@@ -19,6 +19,8 @@ A gitbook about android article...
 
 ## Logic:
 
+[继承、装饰和动态代理修改对象既有方法](http://segmentfault.com/a/1190000002649553)
+
 [Understanding Weak References Blog](https://community.oracle.com/blogs/enicholas/2006/05/04/understanding-weak-references)(中译[深入理解WeakHashmap](http://mikewang.blog.51cto.com/3826268/880775/))
 
 [阻塞队列（BlockingQueue）](http://jiangzhengjun.iteye.com/blog/683593)
