@@ -19,7 +19,7 @@ A gitbook about android article...
 
 ## Logic:
 
-[Understanding Weak References Blog](https://community.oracle.com/blogs/enicholas/2006/05/04/understanding-weak-references)([中译]([深入理解WeakHashmap](http://mikewang.blog.51cto.com/3826268/880775/)))
+[Understanding Weak References Blog](https://community.oracle.com/blogs/enicholas/2006/05/04/understanding-weak-references)([中译][深入理解WeakHashmap](http://mikewang.blog.51cto.com/3826268/880775/))
 
 [阻塞队列（BlockingQueue）](http://jiangzhengjun.iteye.com/blog/683593)
 
