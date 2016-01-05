@@ -19,6 +19,8 @@ A gitbook about android article...
 
 ## Logic:
 
+[Java反射机制](http://blog.csdn.net/jackiehff/article/details/8509075)
+
 [java中什么是bridge method（桥接方法）](http://blog.csdn.net/mhmyqn/article/details/47342577)
 
 [继承、装饰和动态代理修改对象既有方法](http://segmentfault.com/a/1190000002649553)
