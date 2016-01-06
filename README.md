@@ -21,6 +21,8 @@ A gitbook about android article...
 
 ## Logic:
 
+[BlockingQueue队列详解](http://www.java3z.com/cwbwebhome/article/article20/200030.html?id=4852)
+
 [Dependency Management for Android Libraries](http://johnpetitto.com/android-lib-dependency-management/)
 
 [Permissions – Part 1](https://blog.stylingandroid.com/permissions-part-1/)
