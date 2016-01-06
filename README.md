@@ -19,6 +19,8 @@ A gitbook about android article...
 
 ## Logic:
 
+[Dependency Management for Android Libraries](http://johnpetitto.com/android-lib-dependency-management/)
+
 [Permissions – Part 1](https://blog.stylingandroid.com/permissions-part-1/)
 
 [Java反射机制](http://blog.csdn.net/jackiehff/article/details/8509075)
