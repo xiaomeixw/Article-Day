@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[优秀代码赏析：CircleImageView](http://toughcoder.net/blog/2015/08/25/understanding-circleimageview/)
+
 [Twitter's like animation in Android - alternative](http://frogermcs.github.io/twitters-like-animation-in-android-alternative/)(中译[Twitter的like动画安卓版 - 备选方案](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1224/3799.html))
 
 [REFACTORING PLAID APP - A REACTIVE MVP APPROACH (PART 1)](http://hannesdorfmann.com/android/plaid-refactored-1/)(中译[重构 Plaid app - 响应式的MVP模式(一)]([](http://hanks.xyz/2015/12/08/refactoring-plaid-1/)))
