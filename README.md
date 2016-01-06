@@ -104,6 +104,8 @@ A gitbook about android article...
 
 ## Library
 
+[external-resources](https://github.com/prcaen/external-resources)
+
 [MasteringAndroidDataBinding](https://github.com/LyndonChin/MasteringAndroidDataBinding)
 
 [dev-summit-architecture-demo](https://github.com/yigit/dev-summit-architecture-demo)
