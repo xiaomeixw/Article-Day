@@ -21,6 +21,8 @@ A gitbook about android article...
 
 ## Logic:
 
+[BlockingQueue、PriorityBlockingQueue](http://blog.csdn.net/i_lovefish/article/details/26145139)
+
 [BlockingQueue队列详解](http://www.java3z.com/cwbwebhome/article/article20/200030.html?id=4852)
 
 [Dependency Management for Android Libraries](http://johnpetitto.com/android-lib-dependency-management/)
