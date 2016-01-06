@@ -19,6 +19,8 @@ A gitbook about android article...
 
 ## Logic:
 
+[Permissions – Part 1](https://blog.stylingandroid.com/permissions-part-1/)
+
 [Java反射机制](http://blog.csdn.net/jackiehff/article/details/8509075)
 
 [java中什么是bridge method（桥接方法）](http://blog.csdn.net/mhmyqn/article/details/47342577)
