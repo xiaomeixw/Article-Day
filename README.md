@@ -169,6 +169,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Library
 
+[transitions-everywhere](https://github.com/andkulikov/transitions-everywhere) : Backport of Android Transitions API for animations. Animations backported to Android 4.0+. API compatible with Android 2.2+
+
 [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) : Collection of material design libs and res.
 
 [iosched](https://github.com/google/iosched) : The Google I/O 2015 Android App
