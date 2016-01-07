@@ -140,6 +140,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[集合类学习之Arraylist 源码分析](http://my.oschina.net/hanruikai/blog/296991?fromerr=krquvChy)
+
 [Java之美[从菜鸟到高手演变]之设计模式](http://blog.csdn.net/zhangerqing/article/details/8194653)
 
 [“组合”优于“继承” 例子](http://blog.csdn.net/mark_qi/article/details/8718126)
