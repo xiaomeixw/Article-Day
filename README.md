@@ -189,6 +189,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Library
 
+[android-ui](https://github.com/markushi/android-ui)
+
 [android-viewbadger](https://github.com/jgilfelt/android-viewbadger)
 
 [android-weak-handler](https://github.com/badoo/android-weak-handler):Memory safer implementation of android.os.Handler.
