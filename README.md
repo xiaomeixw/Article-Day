@@ -140,6 +140,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[Retrofit中使用GSON解析定制格式的JSON](http://blog.csdn.net/fumier/article/details/48443469)
+
 [a-smart-way-to-use-retrofit](http://blog.robinchutaux.com/blog/a-smart-way-to-use-retrofit/)
 
 [android网络开发框架--Retrofit](http://hexo.trity.cc/2015/05/12/android%E2%80%93Retrofit/)
