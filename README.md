@@ -169,6 +169,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) : Collection of material design libs and res.
 
+[iosched](https://github.com/google/iosched) : The Google I/O 2015 Android App
+
 [ExpandablePanel](https://github.com/JorgeCastilloPrz/ExpandablePanel)
 
 [external-resources](https://github.com/prcaen/external-resources)
