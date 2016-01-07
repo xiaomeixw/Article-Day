@@ -197,6 +197,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Library
 
+[CurtainView](https://github.com/aicaprio/CurtainView):An android view,which can layer on any gravity for swiping.
+
 [Genius-Android](https://github.com/qiujuer/Genius-Android):Android Material Design Theme UI and Tool Library.
 
 [android-cube-app](https://github.com/liaohuqiu/android-cube-app):http://cube-sdk.liaohuqiu.net/.
