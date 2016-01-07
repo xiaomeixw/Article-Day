@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[Android开源项目分类汇总【畜生级别】](http://blog.csdn.net/pengpenggxp/article/details/39299595)
+
 [android 巧用动画使您app风骚起来](http://www.cnblogs.com/manuosex/p/3705172.html)
 
 [仿QQ的头像选择弹出的对话框，酷似！](http://www.eoeandroid.com/thread-324961-1-1.html)
