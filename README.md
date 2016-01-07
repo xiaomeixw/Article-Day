@@ -201,6 +201,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Library
 
+[FlowLayout](https://github.com/blazsolar/FlowLayout):Android implementation of FlowLayout. Layout arranges its children in multiple rows depending on their width.
+
 [Seashell-app](https://github.com/drakeet/Seashell-app):贝壳单词 APP Android 客户端.
 
 [CurtainView](https://github.com/aicaprio/CurtainView):An android view,which can layer on any gravity for swiping.
