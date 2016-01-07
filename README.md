@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[android中橡皮筋回弹效果的实现](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/0312/1590.html)
+
 [Android Weak Handler：可以避免内存泄漏的Handler库](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1123/2047.html)
 
 [android:shape属性详解](http://blog.csdn.net/dreamfly2007/article/details/8486054)
