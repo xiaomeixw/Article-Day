@@ -297,6 +297,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## website
 
+[https://github.com/daimajia](https://github.com/daimajia)
+
 [http://cube-sdk.liaohuqiu.net/](http://cube-sdk.liaohuqiu.net/)
 
 [http://tool.chinaz.com/Tools/unixtime.aspx](http://tool.chinaz.com/Tools/unixtime.aspx)
