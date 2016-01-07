@@ -322,6 +322,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Issue
 
+[fragment中嵌套viewpager，vierpager中有多个fragment，不显示](http://blog.csdn.net/mybook1122/article/details/24003343)
+
 [java.net.SocketException: recvfrom failed: ECONNRESET (Connection reset by peer)](http://blog.csdn.net/andy812110/article/details/21187419)
 
 [java.lang.IllegalStateException: Recursive entry to executePendingTransactions](http://blog.csdn.net/leewenjin/article/details/19409863)
