@@ -150,6 +150,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[设计模式学习笔记（十四）——创建型模式总结](http://www.cnblogs.com/kid-li/archive/2006/10/25/539802.html)
+
 [Android启动过程深入解析](http://blog.jobbole.com/67931/)
 
 [Android 避免APP启动闪黑屏(Theme和Style)](http://www.cnblogs.com/mythou/p/3196042.html)
