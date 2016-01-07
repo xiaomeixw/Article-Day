@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[DESIGN PATTERNS C-Swipe: An Ergonomic Solution To Navigation Fragmentation On Android](http://www.smashingmagazine.com/2013/03/25/c-swipe-navigation-on-android/#top)
+
 [Android 控制ScrollView滚动到底部](http://blog.csdn.net/t12x3456/article/details/12799825)
 
 [Android属性动画---Property Animation（七）](http://blog.csdn.net/think_soft/article/details/7726024)
