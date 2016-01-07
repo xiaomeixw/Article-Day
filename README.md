@@ -140,6 +140,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[ Unable to execute dex: method ID not in [0, 0xffff]: 65536资料](http://blog.csdn.net/liu1164316159/article/details/40823871)
+
 [Android开源框架Universal-Image-Loader详解](http://www.2cto.com/kf/201412/361295.html)
 
 [android 字符串string](http://www.open-open.com/lib/view/open1387942832078.html)
