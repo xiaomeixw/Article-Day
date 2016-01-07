@@ -358,6 +358,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Issue
 
+[Viewpager+fragment数据更新问题解析](http://www.tuicool.com/articles/eua2mm)
+
 [友盟统计sdk混淆后为什么不能统计的？](http://bbs.umeng.com/thread-5446-1-1.html)
 
 [Android开发中StackOverflowError错误实例分析](http://blog.csdn.net/mozhizun/article/details/7051300)
