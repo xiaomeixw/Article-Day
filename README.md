@@ -112,6 +112,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[JAVA简单的加解密](http://blog.sina.com.cn/s/blog_53a99cf301000b2m.html)
+
 [Coding Android客户端用到的一些开源库](https://blog.coding.net/blog/android-open-source-library)
 
 [SimpleDateFormat 最全的时间工具类](http://www.blogjava.net/hello-yun/archive/2011/08/02/355624.html)
