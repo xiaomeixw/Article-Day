@@ -367,6 +367,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## website
 
+[https://github.com/wasabeef](https://github.com/wasabeef)
+
 [https://github.com/liaohuqiu](https://github.com/liaohuqiu)
 
 [https://github.com/kyze8439690](https://github.com/kyze8439690)
