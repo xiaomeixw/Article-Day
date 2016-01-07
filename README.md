@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[清空Fragment回退栈中某个Fragment之上的所有Fragment](http://www.cnblogs.com/qixing/p/4015262.html)
+
 [实现手指滑动切换视图的自定义布局类ScrollLayout](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2013/0227/925.html)
 
 [android手势处理揭秘](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1212/2145.html)
