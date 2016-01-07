@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[Making That Google Plus Profile Screen](http://antoine-merle.com/blog/2013/10/04/making-that-google-plus-profile-screen/)
+
 [android 属性动画](http://www.cnblogs.com/androidsuperman/p/4474604.html)
 
 [Android 编程下 Touch 事件的分发和消费机制](http://www.cnblogs.com/sunzn/archive/2013/05/10/3064129.html)
