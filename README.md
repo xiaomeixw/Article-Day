@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[FragmentPagerAdapter与FragmentStatePagerAdapter区别](http://www.cnblogs.com/lianghui66/p/3607091.html)
+
 [区别 getChildFragmentManager getSupportFragmentManager](http://blog.csdn.net/x1617044578/article/details/25131797)
 
 [android notification 的总结分析](http://www.jb51.net/article/36567.htm)
