@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[Android 嵌套滑动机制（NestedScrolling）](http://segmentfault.com/a/1190000002873657)
+
 [collapsing-toolbar-layout](http://antonioleiva.com/collapsing-toolbar-layout/)
 
 [Android5.0+(CoordinatorLayout)](http://my.oschina.net/kooeasy/blog/484593?fromerr=5uFAuxLx)
