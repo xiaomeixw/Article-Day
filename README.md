@@ -142,6 +142,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[android-third-party-retrofit](https://bng86.gitbooks.io/android-third-party-/content/retrofit.html)
+
 [将基于Dagger-1开发的项目迁移到Dagger-2中](http://www.tuicool.com/articles/6Vzyu2)
 
 [菜鸟学Java（十五）——Java反射机制（二）](http://blog.csdn.net/liushuijinger/article/details/15378475)
