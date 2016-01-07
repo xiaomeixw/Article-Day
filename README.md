@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[Android 吸入动画效果详解](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/0818/1655.html)
+
 [如何实现两个ViewPager的联动](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1031/1884.html)
 
 [平滑Activity过渡动画效果，类库已分离，使用只需1行代码](http://www.eoeandroid.com/thread-540303-1-1.html?_dsign=8f51c238)
