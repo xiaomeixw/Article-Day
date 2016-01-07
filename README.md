@@ -146,6 +146,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[reactive-programmingrxjavaefficientdata-benchristensenmichaelnitschinger](http://www.slideshare.net/Couchbase/reactive-programmingrxjavaefficientdata-benchristensenmichaelnitschinger)
+
 [［译］如何在Android Gradle中添加原生so文件依赖](http://www.jianshu.com/p/20cee429d1c3)
 
 [NoSQL数据库笔谈](http://old.sebug.net/paper/databases/nosql/Nosql.html)
