@@ -5,7 +5,7 @@ A gitbook about android article...
 
 ## UI:
 
-[深入解析Android的自定义布局](https://greenrobot.me/devpost/android-custom-layout/)
+[custom-layouts-on-android](http://lucasr.org/2014/05/12/custom-layouts-on-android/)中译版本 [深入解析Android的自定义布局](https://greenrobot.me/devpost/android-custom-layout/)
 
 [Android onTouch事件传递机制](http://blog.csdn.net/hyp712/article/details/8777835)
 
