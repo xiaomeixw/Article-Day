@@ -273,6 +273,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## website
 
+[http://www.jcodecraeer.com/](http://www.jcodecraeer.com/)
+
 [http://www.pgyer.com/](http://www.pgyer.com/)
 
 [http://blog.csdn.net/duguang77](http://blog.csdn.net/duguang77)
