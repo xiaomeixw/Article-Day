@@ -150,6 +150,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[PercentRelativeLayout 源码解析](http://www.jianshu.com/p/05bc040841cd)
+
 [Dagger - 快速依赖注入器(for android and java) (1)](http://fanxu.me/post/2013-07-18#main)
 
 [annotation-generators](https://deors.wordpress.com/2011/10/31/annotation-generators/)
