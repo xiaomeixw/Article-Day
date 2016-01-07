@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[Android-Universal-Image-Loader 图片异步加载类库的使用（超详细配置）](http://blog.csdn.net/vipzjyno1/article/details/23206387)
+
 [EditText监听方法，实时的判断输入多少字符](http://blog.csdn.net/walker02/article/details/7234458)
 
 [#征文再续#+Animation动画详解](http://www.apkbus.com/android-117743-1-1.html)
