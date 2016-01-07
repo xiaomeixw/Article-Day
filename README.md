@@ -142,6 +142,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[菜鸟学Java（十五）——Java反射机制（二）](http://blog.csdn.net/liushuijinger/article/details/15378475)
+
 [Java注解处理器](http://www.race604.com/annotation-processing/)
 
 [Android 打造编译时注解解析框架 这只是一个开始](http://blog.csdn.net/lmj623565791/article/details/43452969)
