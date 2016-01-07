@@ -306,6 +306,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Issue
 
+[java.net.SocketException: recvfrom failed: ECONNRESET (Connection reset by peer)](http://blog.csdn.net/andy812110/article/details/21187419)
+
 [java.lang.IllegalStateException: Recursive entry to executePendingTransactions](http://blog.csdn.net/leewenjin/article/details/19409863)
 
 [eclipse中SVN，怎样把某文件排除出提交列表](http://www.oschina.net/question/176115_32576?fromerr=3JdeztRy)
