@@ -187,7 +187,7 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Library
 
-[ihepai](https://github.com/wqandroid/ihepai):ihepai照片合拍的手机app;
+[ihepai](https://github.com/wqandroid/ihepai):ihepai照片合拍的手机app.
 
 [AndroidMaterialDesignToolbar](https://github.com/tekinarslan/AndroidMaterialDesignToolbar):Android Sample Project with Material Design and Toolbar.
 
