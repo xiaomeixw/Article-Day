@@ -150,6 +150,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[Dagger - 快速依赖注入器(for android and java) (1)](http://fanxu.me/post/2013-07-18#main)
+
 [annotation-generators](https://deors.wordpress.com/2011/10/31/annotation-generators/)
 
 [butterknife 源码分析](http://2dxgujun.com/post/2015/06/07/butterknife-analysis.html)
