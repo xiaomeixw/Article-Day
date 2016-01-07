@@ -230,6 +230,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Issue
 
+[eclipse中SVN，怎样把某文件排除出提交列表](http://www.oschina.net/question/176115_32576?fromerr=3JdeztRy)
+
 [Plugin with id 'com.neenbedankt.android-apt' not found](https://github.com/Raizlabs/DBFlow/issues/303)
 
 
