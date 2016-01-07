@@ -227,6 +227,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## website
 
+[http://www.curious-creature.org/](http://www.curious-creature.org/)
+
 [http://cases.azoft.com/](http://cases.azoft.com/)
 
 [http://blog.csdn.net/xu_fu](http://blog.csdn.net/xu_fu/article/category/1136435)
