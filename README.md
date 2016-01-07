@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[Android 下拉刷新框架实现](http://blog.csdn.net/leehong2005/article/details/12567757)
+
 [Adding a Collage Maker to 
 Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and-ios-apps/)
 
