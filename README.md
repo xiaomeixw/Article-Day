@@ -140,6 +140,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[10-object-oriented-design-principles](http://javarevisited.blogspot.sg/2012/03/10-object-oriented-design-principles.html)
+
 [Java程序员应当知道的10个面向对象设计原则](http://developer.51cto.com/art/201503/468442.htm)
 
 [面向对象设计原则和创建SOLID应用的5个方法](http://www.importnew.com/10656.html)
