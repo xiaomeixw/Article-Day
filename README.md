@@ -189,7 +189,7 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Library
 
-[android-weak-handler](https://github.com/badoo/android-weak-handler)
+[android-weak-handler](https://github.com/badoo/android-weak-handler):Memory safer implementation of android.os.Handler.
 
 [PathDemo](https://coding.net/u/wangqiong/p/PathDemo/git):path拍照高效果例子.github地址 [https://github.com/wqandroid/pathCameraDemo.git](https://github.com/wqandroid/pathCameraDemo.git)
 
