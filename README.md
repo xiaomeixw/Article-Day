@@ -186,6 +186,8 @@ A gitbook about android article...
 
 ## website
 
+[Ryan Hoo](http://ryanhoo.github.io/)
+
 [http://hanks.xyz/archives/](http://hanks.xyz/archives/)
 
 [http://instructure.github.io/blog](http://instructure.github.io/blog)
