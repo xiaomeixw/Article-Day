@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[Android 控制ScrollView滚动到底部](http://blog.csdn.net/t12x3456/article/details/12799825)
+
 [Android属性动画---Property Animation（七）](http://blog.csdn.net/think_soft/article/details/7726024)
 
 [View Contact from List - Version 2](https://dribbble.com/shots/1780430-View-Contact-from-List-Version-2)
