@@ -409,6 +409,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## website
 
+[DHC plug-in](http://chromecj.com/web-development/2015-08/549.html)
+
 [https://medium.com/android-news](https://medium.com/android-news)
 
 [http://tutsplus.com/authors/paul-trebilcox-ruiz](http://tutsplus.com/authors/paul-trebilcox-ruiz)
