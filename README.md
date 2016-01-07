@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[android-修改TextView中部分文字的颜色](http://blog.csdn.net/centralperk/article/details/8674599)
+
 [Java Image Filters](http://www.jhlabs.com/ip/filters/index.html)
 
 [开源ImageFilter库v0.4：新增26种图片效果](http://www.cnblogs.com/daizhj/archive/2012/06/21/2557550.html)
