@@ -414,6 +414,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Issue
 
+[logging-with-retrofit-2](http://stackoverflow.com/questions/32514410/logging-with-retrofit-2)
+
 [Viewpager+fragment数据更新问题解析](http://www.tuicool.com/articles/eua2mm)
 
 [友盟统计sdk混淆后为什么不能统计的？](http://bbs.umeng.com/thread-5446-1-1.html)
