@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[android手势处理揭秘](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1212/2145.html)
+
 [DESIGN PATTERNS C-Swipe: An Ergonomic Solution To Navigation Fragmentation On Android](http://www.smashingmagazine.com/2013/03/25/c-swipe-navigation-on-android/#top) 中译版本 [安卓用户体验新探索，“C手势”的解释以及实现方法](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2013/0505/1207.html)
 
 [Android 控制ScrollView滚动到底部](http://blog.csdn.net/t12x3456/article/details/12799825)
