@@ -195,6 +195,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Library
 
+[Genius-Android](https://github.com/qiujuer/Genius-Android):Android Material Design Theme UI and Tool Library.
+
 [android-cube-app](https://github.com/liaohuqiu/android-cube-app):http://cube-sdk.liaohuqiu.net/.
 
 [android-ui](https://github.com/markushi/android-ui):Android UI library.
