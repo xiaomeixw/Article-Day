@@ -152,6 +152,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[Facebook：MVC不适合大规模应用，改用Flux](http://www.infoq.com/cn/news/2014/05/facebook-mvc-flux/)
+
 [前端Flux架构简介](http://www.jdon.com/idea/flux.html)
 
 [Flux 傻瓜教程](http://zhuanlan.zhihu.com/FrontendMagazine/19900243)
