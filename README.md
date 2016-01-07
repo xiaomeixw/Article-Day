@@ -237,6 +237,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## website
 
+[https://www.youtube.com/user/androiddevelopers](https://www.youtube.com/user/androiddevelopers)
+
 [http://androidniceties.tumblr.com/](http://androidniceties.tumblr.com/)
 
 [http://graphics-geek.blogspot.sg/](http://graphics-geek.blogspot.sg/)
