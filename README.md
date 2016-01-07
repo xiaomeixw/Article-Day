@@ -144,6 +144,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[NoSQL数据库笔谈](http://old.sebug.net/paper/databases/nosql/Nosql.html)
+
 [彻底理解ThreadLocal](http://my.oschina.net/lichhao/blog/111362?fromerr=pWUcUUMT)
 
 [Kryo 为什么比 Hessian 快](http://www.oschina.net/question/54100_91828?fromerr=oEUhcPmo)
