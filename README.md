@@ -122,6 +122,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[android 字符串string](http://www.open-open.com/lib/view/open1387942832078.html)
+
 [JAVA简单的加解密](http://blog.sina.com.cn/s/blog_53a99cf301000b2m.html)
 
 [Coding Android客户端用到的一些开源库](https://blog.coding.net/blog/android-open-source-library)
