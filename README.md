@@ -140,6 +140,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[深入理解DIP、IoC、DI以及IoC容器](http://www.cnblogs.com/liuhaorain/p/3747470.html)
+
 [ Unable to execute dex: method ID not in [0, 0xffff]: 65536资料](http://blog.csdn.net/liu1164316159/article/details/40823871)
 
 [Android开源框架Universal-Image-Loader详解](http://www.2cto.com/kf/201412/361295.html)
