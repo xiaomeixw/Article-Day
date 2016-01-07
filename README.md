@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[Android自定义控件实战——仿淘宝商品浏览界面](http://blog.csdn.net/zhongkejingwang/article/details/38656929)
+
 [Android类参考---FragmentManager](http://blog.csdn.net/wbw1985/article/details/9031601)
 
 [清空Fragment回退栈中某个Fragment之上的所有Fragment](http://www.cnblogs.com/qixing/p/4015262.html)
