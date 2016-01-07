@@ -140,6 +140,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[composite-design-pattern-in-java-example-tutorial](http://www.journaldev.com/1535/composite-design-pattern-in-java-example-tutorial)
+
 [10-object-oriented-design-principles](http://javarevisited.blogspot.sg/2012/03/10-object-oriented-design-principles.html)
 
 [Java程序员应当知道的10个面向对象设计原则](http://developer.51cto.com/art/201503/468442.htm)
