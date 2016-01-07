@@ -142,6 +142,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[Kryo 为什么比 Hessian 快](http://www.oschina.net/question/54100_91828?fromerr=oEUhcPmo)
+
 [OkHttp使用教程](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0106/2275.html)
 
 [android-third-party-Retrofit](https://bng86.gitbooks.io/android-third-party-/content/retrofit.html)
