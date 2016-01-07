@@ -5,6 +5,10 @@ A gitbook about android article...
 
 ## UI:
 
+[android 巧用动画使您app风骚起来](http://www.cnblogs.com/manuosex/p/3705172.html)
+
+[仿QQ的头像选择弹出的对话框，酷似！](http://www.eoeandroid.com/thread-324961-1-1.html)
+
 [实现一个定制的3DListView——第三部分（final）](http://blog.csdn.net/xu_fu/article/details/21299911)
 
 [each-navigation-drawer-hides-a-viewdraghelper](http://flavienlaurent.com/blog/2013/08/28/each-navigation-drawer-hides-a-viewdraghelper/)
