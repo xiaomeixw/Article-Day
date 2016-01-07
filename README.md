@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[Android 5.x Theme 与 ToolBar 实战](http://www.open-open.com/lib/view/open1431356199216.html)
+
 [Android 嵌套滑动机制（NestedScrolling）](http://segmentfault.com/a/1190000002873657)
 
 [collapsing-toolbar-layout](http://antonioleiva.com/collapsing-toolbar-layout/)
