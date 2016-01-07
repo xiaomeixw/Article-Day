@@ -150,6 +150,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[Android开发之解决APP启动白屏或者黑屏闪现的问题](http://www.tuicool.com/articles/y2AVnu)
+
 [android开发之提高应用启动速度_splash页面瞬间响应_避免APP启动闪白屏](http://blog.csdn.net/jason0539/article/details/45559507)
 
 [Android 启动APP时黑屏白屏的三个解决方案](http://www.cnblogs.com/liqw/p/4263418.html)
