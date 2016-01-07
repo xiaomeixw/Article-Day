@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[emoji处理方式大起底](http://blog.csdn.net/ugg/article/details/44225723)
+
 [MVP Architecture in Android Development](https://medium.com/@kenjuwagatsuma/mvp-architecture-in-android-development-3d63cc32707a#.aur5p6a86)
 
 [优秀代码赏析：CircleImageView](http://toughcoder.net/blog/2015/08/25/understanding-circleimageview/)
