@@ -148,6 +148,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[Java之美[从菜鸟到高手演变]之常见的几种排序算法-插入、选择、冒泡、快排、堆排等](http://blog.csdn.net/zhangerqing/article/details/8831542)
+
 [Java之美[从菜鸟到高手演变]之HashMap、HashTable](http://blog.csdn.net/zhangerqing/article/details/8193118)
 
 [reactive-programmingrxjavaefficientdata-benchristensenmichaelnitschinger](http://www.slideshare.net/Couchbase/reactive-programmingrxjavaefficientdata-benchristensenmichaelnitschinger)
