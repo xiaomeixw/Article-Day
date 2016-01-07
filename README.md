@@ -474,6 +474,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## website
 
+[http://www.slideshare.net](http://www.slideshare.net)
+
 [https://speakerdeck.com](https://speakerdeck.com/search?utf8=%E2%9C%93&q=android)
 
 [http://androidxref.com/](http://androidxref.com/)
