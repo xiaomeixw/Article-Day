@@ -202,6 +202,8 @@ A gitbook about android article...
 
 ## website
 
+[http://blog.csdn.net/xiaanming](http://blog.csdn.net/xiaanming)
+
 [http://www.23code.com/](http://www.23code.com/)
 
 [Cyril Mottier](http://cyrilmottier.com/)
