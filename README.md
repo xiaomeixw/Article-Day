@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[Java Image Filters](http://www.jhlabs.com/ip/filters/index.html)
+
 [开源ImageFilter库v0.4：新增26种图片效果](http://www.cnblogs.com/daizhj/archive/2012/06/21/2557550.html)
 
 [Android Animation详解一](http://blog.csdn.net/toyuexinshangwan/article/details/38706885)
