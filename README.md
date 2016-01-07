@@ -140,6 +140,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[java中注解的使用与实例(一)](http://www.cnblogs.com/pepcod/archive/2013/02/16/2913474.html)
+
 [mvp-android](http://antonioleiva.com/mvp-android/)
 
 [Java线程池备忘录](http://souly.cn/%E6%8A%80%E6%9C%AF%E5%8D%9A%E6%96%87/2015/06/11/java%E7%BA%BF%E7%A8%8B%E6%B1%A0%E5%A4%87%E5%BF%98%E5%BD%95/)
