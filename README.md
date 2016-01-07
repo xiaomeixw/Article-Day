@@ -86,7 +86,7 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
-
+[对Android中的AsyncTask进行函数化的封装](http://www.360doc.com/content/11/0808/11/7471983_138869941.shtml)
 
 [BlockingQueue、PriorityBlockingQueue](http://blog.csdn.net/i_lovefish/article/details/26145139)
 
