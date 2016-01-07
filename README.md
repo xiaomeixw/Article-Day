@@ -387,6 +387,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## website
 
+[http://tutsplus.com/authors/paul-trebilcox-ruiz](http://tutsplus.com/authors/paul-trebilcox-ruiz)
+
 [http://shields.io/](http://shields.io/)
 
 [http://blog.csdn.net/partner4java](http://blog.csdn.net/partner4java/article/category/948781)
