@@ -187,6 +187,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Library
 
+[PathDemo](https://coding.net/u/wangqiong/p/PathDemo/git):path拍照高效果例子.
+
 [android-gpuimage](https://github.com/CyberAgent/android-gpuimage):Android filters based on OpenGL (idea from GPUImage for iOS).
 
 [ihepai](https://github.com/wqandroid/ihepai):ihepai照片合拍的手机app.
