@@ -152,6 +152,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[Java反射机制知识点](http://blog.csdn.net/stevenhu_223/article/details/9286121)
+
 [设计模式学习笔记（十四）——创建型模式总结](http://www.cnblogs.com/kid-li/archive/2006/10/25/539802.html)
 
 [Android启动过程深入解析](http://blog.jobbole.com/67931/)
