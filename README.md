@@ -5,7 +5,7 @@ A gitbook about android article...
 
 ## UI:
 
-
+[How to Make a Paper Folding Animation in Android](http://cases.azoft.com/creating-paper-folding-animation-in-android/)
 
 [Android 吸入动画效果详解](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/0818/1655.html)
 
