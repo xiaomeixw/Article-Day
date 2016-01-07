@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[【译】Android：更好的自定义字体方案](http://ryanhoo.github.io/blog/2014/05/05/android-better-way-to-apply-custom-font/)
+
 [Custom Animations With Fragments](http://cyrilmottier.com/2014/05/20/custom-animations-with-fragments/)
 
 [Android Animation动画](http://blog.csdn.net/joker_zhou/article/details/7759081)
