@@ -479,6 +479,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## website
 
+[有哪些 Android 大牛的 blog 值得推荐？](http://www.zhihu.com/question/19775981)
+
 [http://www.slideshare.net](http://www.slideshare.net)
 
 [https://speakerdeck.com](https://speakerdeck.com/search?utf8=%E2%9C%93&q=android)
