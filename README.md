@@ -275,6 +275,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## website
 
+[http://tool.chinaz.com/Tools/unixtime.aspx](http://tool.chinaz.com/Tools/unixtime.aspx)
+
 [http://www.jcodecraeer.com/](http://www.jcodecraeer.com/)
 
 [http://www.pgyer.com/](http://www.pgyer.com/)
