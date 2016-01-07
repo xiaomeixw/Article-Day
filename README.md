@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[Android 编程下 Touch 事件的分发和消费机制](http://www.cnblogs.com/sunzn/archive/2013/05/10/3064129.html)
+
 [第18天 Android Touch事件学习 5 点击与长按原理](http://www.2cto.com/kf/201402/276490.html)
 
 [Android 自定义ViewGroup](http://www.csdn123.com/html/mycsdn20140110/27/2795a49aeec1172e4098cc119b495141.html)
