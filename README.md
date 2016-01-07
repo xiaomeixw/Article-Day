@@ -142,6 +142,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[Java注解处理器使用详解](http://www.codeceo.com/article/java-annotation-processor.html)
+
 [Java 枚举7常见种用法](http://www.iteye.com/topic/1116193)
 
 [Java中的反射](http://www.cnblogs.com/mengdd/archive/2012/08/18/2645553.html)
