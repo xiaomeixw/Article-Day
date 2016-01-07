@@ -420,6 +420,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Issue
 
+[duplicate-files-while-including-butterknife-with-gradle](http://stackoverflow.com/questions/22439156/duplicate-files-while-including-butterknife-with-gradle/22441017#22441017)
+
 [post-with-android-retrofit](http://stackoverflow.com/questions/19796235/post-with-android-retrofit)
 
 [logging-with-retrofit-2](http://stackoverflow.com/questions/32514410/logging-with-retrofit-2)
