@@ -207,6 +207,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Library
 
+[Android-ProgressFragment](https://github.com/johnkil/Android-ProgressFragment):Implementation of the fragment with the ability to display indeterminate progress indicator when you are waiting for the initial data.
+
 [FlowLayout](https://github.com/blazsolar/FlowLayout):Android implementation of FlowLayout. Layout arranges its children in multiple rows depending on their width.
 
 [Seashell-app](https://github.com/drakeet/Seashell-app):贝壳单词 APP Android 客户端.
