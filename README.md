@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[原来PATH的菜单效果如此简单](http://blog.csdn.net/daditao/article/details/8554560)
+
 [Android实现Path2.0中绚丽的的旋转菜单](http://mobile.9sssd.com/android/art/938)
 
 [Android中Bitmap,byte[],Drawable相互转化](http://www.cnblogs.com/fighter/archive/2012/02/20/android-bitmap-drawable.html)
