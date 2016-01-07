@@ -187,6 +187,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Library
 
+[ihepai](https://github.com/wqandroid/ihepai):ihepai照片合拍的手机app;
+
 [AndroidMaterialDesignToolbar](https://github.com/tekinarslan/AndroidMaterialDesignToolbar):Android Sample Project with Material Design and Toolbar.
 
 [DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster):大弹幕时代来临了,这里是Android上最好的开源弹幕引擎·烈焰弹幕使 ～ 被弹幕吞噬吧!
