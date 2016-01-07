@@ -469,6 +469,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## website
 
+[http://androidxref.com/](http://androidxref.com/)
+
 [http://www.race604.com/](http://www.race604.com/)
 
 [http://droidcon.de/](http://droidcon.de/)
