@@ -201,6 +201,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Library
 
+[Seashell-app](https://github.com/drakeet/Seashell-app):贝壳单词 APP Android 客户端.
+
 [CurtainView](https://github.com/aicaprio/CurtainView):An android view,which can layer on any gravity for swiping.
 
 [Genius-Android](https://github.com/qiujuer/Genius-Android):Android Material Design Theme UI and Tool Library.
