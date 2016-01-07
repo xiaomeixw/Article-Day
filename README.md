@@ -227,6 +227,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Library
 
+[AndroidSlidingUpPanel](https://github.com/xiaomeixw/AndroidSlidingUpPanel):This library provides a simple way to add a draggable sliding up panel (popularized by Google Music and Google Maps) to your Android application. Brought to you by Umano.
+
 [AndroidBucket](https://github.com/wangjiegulu/AndroidBucket):Android开发常用整理.
 
 [SwitchButton](https://github.com/xiaopansky/SwitchButton):这是Android上的一个滑动开关按钮开源项目.
