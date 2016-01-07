@@ -183,7 +183,7 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Library
 
-[](https://github.com/Bilibili/DanmakuFlameMaster)
+[DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster)
 
 [CRefreshLayout](https://github.com/cloay/CRefreshLayout):A stunning android pull refresh layout inspired by CBStoreHouseRefreshControl.
 
