@@ -140,6 +140,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[Retrofit 解析 JSON 数据](http://www.jianshu.com/p/87c36d8dabce)
+
 [集合类学习之Arraylist 源码分析](http://my.oschina.net/hanruikai/blog/296991?fromerr=krquvChy)
 
 [Java之美[从菜鸟到高手演变]之设计模式](http://blog.csdn.net/zhangerqing/article/details/8194653)
