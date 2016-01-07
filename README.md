@@ -167,6 +167,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Library
 
+[Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
+
 [ExpandablePanel](https://github.com/JorgeCastilloPrz/ExpandablePanel)
 
 [external-resources](https://github.com/prcaen/external-resources)
