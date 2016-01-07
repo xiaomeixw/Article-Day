@@ -438,6 +438,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Code skills & style
 
+[有哪些 Android 大牛的 blog 值得推荐？](http://www.zhihu.com/question/19775981)
+
 [Android Application Architecture (Android Dev Summit 2015)](https://www.youtube.com/watch?v=BlkJzgjzL0c&feature=em-subs_digest)
 
 [Do's and Don'ts for Android development, by Futurice developers](https://github.com/futurice/android-best-practices)
@@ -479,7 +481,7 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## website
 
-[有哪些 Android 大牛的 blog 值得推荐？](http://www.zhihu.com/question/19775981)
+
 
 [http://www.slideshare.net](http://www.slideshare.net)
 
