@@ -150,6 +150,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[java设计模式原则（2）：LSP里氏替换原则](http://www.coin163.com/java/docs/201310/d_3025079103.html)
+
 [Hashtable与HashMap引发的血案(java)](http://www.java3z.com/cwbwebhome/article/article8/81437.html?id=4314)
 
 [PercentRelativeLayout 源码解析](http://www.jianshu.com/p/05bc040841cd)
