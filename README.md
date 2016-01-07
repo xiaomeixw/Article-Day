@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[collapsing-toolbar-layout](http://antonioleiva.com/collapsing-toolbar-layout/)
+
 [Android5.0+(CoordinatorLayout)](http://my.oschina.net/kooeasy/blog/484593?fromerr=5uFAuxLx)
 
 [Making That Google Plus Profile Screen](http://antoine-merle.com/blog/2013/10/04/making-that-google-plus-profile-screen/)
