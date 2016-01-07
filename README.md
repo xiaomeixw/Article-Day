@@ -90,6 +90,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[SimpleDateFormat 最全的时间工具类](http://www.blogjava.net/hello-yun/archive/2011/08/02/355624.html)
+
 [android应用程序如何调用支付宝接口](http://blog.csdn.net/lilidejing/article/details/19483717)
 
 [Android AsyncTask两种线程池分析和总结](http://bbs.51cto.com/thread-1114378-1-1.html)
