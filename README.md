@@ -142,6 +142,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[Android 打造编译时注解解析框架 这只是一个开始](http://blog.csdn.net/lmj623565791/article/details/43452969)
+
 [Java注解处理器使用详解](http://www.codeceo.com/article/java-annotation-processor.html)
 
 [Java 枚举7常见种用法](http://www.iteye.com/topic/1116193)
