@@ -88,6 +88,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[android应用程序如何调用支付宝接口](http://blog.csdn.net/lilidejing/article/details/19483717)
+
 [Android AsyncTask两种线程池分析和总结](http://bbs.51cto.com/thread-1114378-1-1.html)
 
 [客户端开发-对asynctask的简单高层封装 ](http://bbs.51cto.com/thread-1026759-1.html)
