@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[Android onTouch事件传递机制](http://blog.csdn.net/hyp712/article/details/8777835)
+
 [用开源项目ActivityOptionsICS让ActivityOptions的动画实现兼容](http://www.cnblogs.com/tianzhijiexian/p/4128045.html)
 
 [Material Designer的低版本兼容实现（五）—— ActivityOptionsCompat](http://www.cnblogs.com/tianzhijiexian/p/4087917.html)
