@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[Android属性动画---Property Animation（七）](http://blog.csdn.net/think_soft/article/details/7726024)
+
 [View Contact from List - Version 2](https://dribbble.com/shots/1780430-View-Contact-from-List-Version-2)
 
 [android悬浮按钮（Floating action button）的两种实现方法](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1028/1857.html)
