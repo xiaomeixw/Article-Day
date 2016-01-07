@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[android:shape属性详解](http://blog.csdn.net/dreamfly2007/article/details/8486054)
+
 [android-修改TextView中部分文字的颜色](http://blog.csdn.net/centralperk/article/details/8674599)
 
 [Java Image Filters](http://www.jhlabs.com/ip/filters/index.html)
