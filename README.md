@@ -142,6 +142,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[OkHttp使用教程](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0106/2275.html)
+
 [android-third-party-Retrofit](https://bng86.gitbooks.io/android-third-party-/content/retrofit.html)
 
 [将基于Dagger-1开发的项目迁移到Dagger-2中](http://www.tuicool.com/articles/6Vzyu2)
