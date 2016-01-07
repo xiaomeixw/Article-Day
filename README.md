@@ -2,7 +2,6 @@
 A gitbook about android article...
 
 
-
 ## UI:
 
 [ Android 贝塞尔曲线的魅力](http://blog.csdn.net/qq_21430549/article/details/50040241)
