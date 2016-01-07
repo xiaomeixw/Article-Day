@@ -217,6 +217,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Library
 
+[Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView):Android library to observe scroll events on scrollable views. 
+
 [Rebound](http://facebook.github.io/rebound/):Spring Animations for Android.
 
 [Android-ProgressFragment](https://github.com/johnkil/Android-ProgressFragment):Implementation of the fragment with the ability to display indeterminate progress indicator when you are waiting for the initial data.
