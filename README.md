@@ -229,6 +229,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Library
 
+[TouchImageView](https://github.com/MikeOrtiz/TouchImageView):Adds touch functionality to Android ImageView.
+
 [PageTransformerDemo](https://github.com/chiemy/PageTransformerDemo):PageTransformer使用示例.
 
 [QuickNews](https://github.com/tigerguixh/QuickNews):this is a news to the client.
