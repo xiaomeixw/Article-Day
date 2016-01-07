@@ -152,6 +152,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[前端Flux架构简介](http://www.jdon.com/idea/flux.html)
+
 [Flux 傻瓜教程](http://zhuanlan.zhihu.com/FrontendMagazine/19900243)
 
 [设计模式UML展示——代理模式](http://blog.csdn.net/gjl_gjl/article/details/4126150)
