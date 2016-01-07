@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[用开源项目ActivityOptionsICS让ActivityOptions的动画实现兼容](http://www.cnblogs.com/tianzhijiexian/p/4128045.html)
+
 [Material Designer的低版本兼容实现（五）—— ActivityOptionsCompat](http://www.cnblogs.com/tianzhijiexian/p/4087917.html)
 
 [ActionBarActivity环境搭建步骤及遇到的问题总结](http://blog.csdn.net/shuzui1985/article/details/20528305?utm_source=tuicool&utm_medium=referral)
