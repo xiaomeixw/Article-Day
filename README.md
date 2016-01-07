@@ -150,6 +150,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[Android 启动APP时黑屏白屏的三个解决方案](http://www.cnblogs.com/liqw/p/4263418.html)
+
 [Android中Application的onCreate多次调用问题](http://blog.csdn.net/peidonghui/article/details/46043943)
 
 [将Eclipse代码导入到AndroidStudio的两种方式](http://www.open-open.com/lib/view/open1419597450031.html)
