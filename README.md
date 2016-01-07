@@ -186,6 +186,8 @@ A gitbook about android article...
 
 ## website
 
+[Cyril Mottier](http://cyrilmottier.com/)
+
 [Ryan Hoo](http://ryanhoo.github.io/)
 
 [http://hanks.xyz/archives/](http://hanks.xyz/archives/)
