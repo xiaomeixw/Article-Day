@@ -231,6 +231,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Library
 
+[ActivityOptionsICS](https://github.com/tianzhijiexian/ActivityOptionsICS):The lib can make the ActivityOptions animations use in Android api3.1+.
+
 [TouchImageView](https://github.com/MikeOrtiz/TouchImageView):Adds touch functionality to Android ImageView.
 
 [PageTransformerDemo](https://github.com/chiemy/PageTransformerDemo):PageTransformer使用示例.
