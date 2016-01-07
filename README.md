@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[嵌套Fragment的使用（5）](http://blog.csdn.net/dyllove98/article/details/8826000)
+
 [FragmentPagerAdapter与FragmentStatePagerAdapter区别](http://www.cnblogs.com/lianghui66/p/3607091.html)
 
 [区别 getChildFragmentManager getSupportFragmentManager](http://blog.csdn.net/x1617044578/article/details/25131797)
