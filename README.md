@@ -237,6 +237,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Library
 
+[WaniKani-for-Android](https://github.com/xiprox/WaniKani-for-Android):An android client application for the awesome kanji learning website wanikani.com .
+
 [Phoenix](https://github.com/Yalantis/Phoenix):Phoenix Pull-to-Refresh.
 
 [ActivityOptionsICS](https://github.com/tianzhijiexian/ActivityOptionsICS):The lib can make the ActivityOptions animations use in Android api3.1+.
