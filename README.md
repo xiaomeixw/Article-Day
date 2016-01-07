@@ -187,7 +187,7 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Library
 
-[PathDemo](https://coding.net/u/wangqiong/p/PathDemo/git):path拍照高效果例子.github地址 https://github.com/wqandroid/pathCameraDemo.git
+[PathDemo](https://coding.net/u/wangqiong/p/PathDemo/git):path拍照高效果例子.github地址 [https://github.com/wqandroid/pathCameraDemo.git](https://github.com/wqandroid/pathCameraDemo.git)
 
 [android-gpuimage](https://github.com/CyberAgent/android-gpuimage):Android filters based on OpenGL (idea from GPUImage for iOS).
 
