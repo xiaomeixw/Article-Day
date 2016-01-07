@@ -86,6 +86,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[Android AsyncTask两种线程池分析和总结](http://bbs.51cto.com/thread-1114378-1-1.html)
+
 [客户端开发-对asynctask的简单高层封装 ](http://bbs.51cto.com/thread-1026759-1.html)
 
 [asynctask的简单封装篇 ](http://bbs.51cto.com/thread-1024270-1-1.html)
