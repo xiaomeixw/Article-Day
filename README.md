@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[仿“饿了么”订餐app界面实现](http://www.eoeandroid.com/thread-550100-1-1.html?_dsign=eeacf4a5)
+
 [仿微信5.2版本朋友圈选择图片功能，带本地图片选择和拍照](http://www.eoeandroid.com/thread-552169-1-1.html)
 
 [Android-Universal-Image-Loader 图片异步加载类库的使用（超详细配置）](http://blog.csdn.net/vipzjyno1/article/details/23206387)
