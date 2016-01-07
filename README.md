@@ -191,6 +191,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Library
 
+[android-cube-app](https://github.com/liaohuqiu/android-cube-app):http://cube-sdk.liaohuqiu.net/.
+
 [android-ui](https://github.com/markushi/android-ui):Android UI library.
 
 [android-viewbadger](https://github.com/jgilfelt/android-viewbadger)
