@@ -327,6 +327,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## website
 
+[http://blog.csdn.net/lancees](http://blog.csdn.net/lancees/article/category/1103608)
+
 [http://blog.csdn.net/h3c4lenovo](http://blog.csdn.net/h3c4lenovo/article/category/1151850)
 
 [https://github.com/wangjiegulu](https://github.com/wangjiegulu)
