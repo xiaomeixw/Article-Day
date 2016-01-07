@@ -237,6 +237,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Library
 
+[awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries):This is an alphabetical list of libraries for Android development, the majority being actively maintained
+
 [WaniKani-for-Android](https://github.com/xiprox/WaniKani-for-Android):An android client application for the awesome kanji learning website wanikani.com .
 
 [Phoenix](https://github.com/Yalantis/Phoenix):Phoenix Pull-to-Refresh.
