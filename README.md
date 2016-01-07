@@ -381,6 +381,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## website
 
+[http://api.apkbus.com](http://api.apkbus.com/reference/android/view/animation/DecelerateInterpolator.html)
+
 [https://github.com/wasabeef](https://github.com/wasabeef)
 
 [https://github.com/liaohuqiu](https://github.com/liaohuqiu)
