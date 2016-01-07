@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[android 属性动画](http://www.cnblogs.com/androidsuperman/p/4474604.html)
+
 [Android 编程下 Touch 事件的分发和消费机制](http://www.cnblogs.com/sunzn/archive/2013/05/10/3064129.html)
 
 [第18天 Android Touch事件学习 5 点击与长按原理](http://www.2cto.com/kf/201402/276490.html)
