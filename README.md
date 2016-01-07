@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[深入解析Android的自定义布局](https://greenrobot.me/devpost/android-custom-layout/)
+
 [Android onTouch事件传递机制](http://blog.csdn.net/hyp712/article/details/8777835)
 
 [用开源项目ActivityOptionsICS让ActivityOptions的动画实现兼容](http://www.cnblogs.com/tianzhijiexian/p/4128045.html)
