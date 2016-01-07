@@ -140,6 +140,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[面向对象设计原则和创建SOLID应用的5个方法](http://www.importnew.com/10656.html)
+
 [深入理解DIP、IoC、DI以及IoC容器](http://www.cnblogs.com/liuhaorain/p/3747470.html)
 
 [ Unable to execute dex: method ID not in [0, 0xffff]: 65536资料](http://blog.csdn.net/liu1164316159/article/details/40823871)
