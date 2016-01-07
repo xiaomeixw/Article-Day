@@ -140,6 +140,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[Java 枚举7常见种用法](http://www.iteye.com/topic/1116193)
+
 [Java中的反射](http://www.cnblogs.com/mengdd/archive/2012/08/18/2645553.html)
 
 [JAVA代理模式与动态代理模式](http://www.open-open.com/home/space-24-do-blog-id-12.html)
