@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[android notification 的总结分析](http://www.jb51.net/article/36567.htm)
+
 [Android自定义控件实战——仿淘宝商品浏览界面](http://blog.csdn.net/zhongkejingwang/article/details/38656929)
 
 [Android类参考---FragmentManager](http://blog.csdn.net/wbw1985/article/details/9031601)
