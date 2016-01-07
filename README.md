@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[Custom Animations With Fragments](http://cyrilmottier.com/2014/05/20/custom-animations-with-fragments/)
+
 [Android Animation动画](http://blog.csdn.net/joker_zhou/article/details/7759081)
 
 [Android 属性动画（Property Animation） 完全解析 （上）](http://blog.csdn.net/lmj623565791/article/details/38067475)
