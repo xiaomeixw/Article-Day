@@ -322,6 +322,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Issue
 
+[解决Fragment中使用ViewPager时，ViewPager里的Fragment错位和空白问题](http://www.tuicool.com/articles/7fmyUzN)
+
 [fragment中嵌套viewpager，vierpager中有多个fragment，不显示](http://blog.csdn.net/mybook1122/article/details/24003343)
 
 [java.net.SocketException: recvfrom failed: ECONNRESET (Connection reset by peer)](http://blog.csdn.net/andy812110/article/details/21187419)
