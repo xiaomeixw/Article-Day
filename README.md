@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[Android实现Path2.0中绚丽的的旋转菜单](http://mobile.9sssd.com/android/art/938)
+
 [Android中Bitmap,byte[],Drawable相互转化](http://www.cnblogs.com/fighter/archive/2012/02/20/android-bitmap-drawable.html)
 
 [仿“饿了么”订餐app界面实现](http://www.eoeandroid.com/thread-550100-1-1.html?_dsign=eeacf4a5)
@@ -58,6 +60,8 @@ A gitbook about android article...
 
 
 ## Logic:
+
+
 
 [BlockingQueue、PriorityBlockingQueue](http://blog.csdn.net/i_lovefish/article/details/26145139)
 
