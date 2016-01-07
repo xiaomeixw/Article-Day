@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[EditText监听方法，实时的判断输入多少字符](http://blog.csdn.net/walker02/article/details/7234458)
+
 [#征文再续#+Animation动画详解](http://www.apkbus.com/android-117743-1-1.html)
 
 [【译】Android：更好的自定义字体方案](http://ryanhoo.github.io/blog/2014/05/05/android-better-way-to-apply-custom-font/)
