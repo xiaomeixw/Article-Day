@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[第18天 Android Touch事件学习 5 点击与长按原理](http://www.2cto.com/kf/201402/276490.html)
+
 [Android 自定义ViewGroup](http://www.csdn123.com/html/mycsdn20140110/27/2795a49aeec1172e4098cc119b495141.html)
 
 [custom-layouts-on-android](http://lucasr.org/2014/05/12/custom-layouts-on-android/)中译版本 [深入解析Android的自定义布局](https://greenrobot.me/devpost/android-custom-layout/)
