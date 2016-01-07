@@ -148,6 +148,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[Java之美[从菜鸟到高手演变]之HashMap、HashTable](http://blog.csdn.net/zhangerqing/article/details/8193118)
+
 [reactive-programmingrxjavaefficientdata-benchristensenmichaelnitschinger](http://www.slideshare.net/Couchbase/reactive-programmingrxjavaefficientdata-benchristensenmichaelnitschinger)
 
 [［译］如何在Android Gradle中添加原生so文件依赖](http://www.jianshu.com/p/20cee429d1c3)
