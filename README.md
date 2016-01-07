@@ -152,6 +152,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[Android studio 使用Gradle发布Android开源项目到JCenter 总结](http://www.cnblogs.com/zhaoyanjun/p/4994981.html)
+
 [Android实现不重复启动APP的方法](Android实现不重复启动APP的方法 )
 
 [Java反射机制知识点](http://blog.csdn.net/stevenhu_223/article/details/9286121)
