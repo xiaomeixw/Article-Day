@@ -5,6 +5,10 @@ A gitbook about android article...
 
 ## UI:
 
+[Android 属性动画（Property Animation） 完全解析 （上）](http://blog.csdn.net/lmj623565791/article/details/38067475)
+
+[Android 动画学习笔记](http://www.open-open.com/lib/view/open1329994048671.html)
+
 [Android开源项目分类汇总【畜生级别】](http://blog.csdn.net/pengpenggxp/article/details/39299595)
 
 [android 巧用动画使您app风骚起来](http://www.cnblogs.com/manuosex/p/3705172.html)
