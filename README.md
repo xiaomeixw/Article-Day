@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[仿微信5.2版本朋友圈选择图片功能，带本地图片选择和拍照](http://www.eoeandroid.com/thread-552169-1-1.html)
+
 [Android-Universal-Image-Loader 图片异步加载类库的使用（超详细配置）](http://blog.csdn.net/vipzjyno1/article/details/23206387)
 
 [EditText监听方法，实时的判断输入多少字符](http://blog.csdn.net/walker02/article/details/7234458)
