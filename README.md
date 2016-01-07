@@ -217,6 +217,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Library
 
+[AndroidBucket](https://github.com/wangjiegulu/AndroidBucket):Android开发常用整理.
+
 [SwitchButton](https://github.com/xiaopansky/SwitchButton):这是Android上的一个滑动开关按钮开源项目.
 
 [Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView):Android library to observe scroll events on scrollable views. 
