@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+
+
 [Android 吸入动画效果详解](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/0818/1655.html)
 
 [如何实现两个ViewPager的联动](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1031/1884.html)
@@ -213,6 +215,8 @@ A gitbook about android article...
 
 
 ## website
+
+[http://blog.csdn.net/xu_fu](http://blog.csdn.net/xu_fu/article/category/1136435)
 
 [http://blog.csdn.net/xiaanming](http://blog.csdn.net/xiaanming)
 
