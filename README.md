@@ -140,6 +140,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[Java中的反射](http://www.cnblogs.com/mengdd/archive/2012/08/18/2645553.html)
+
 [JAVA代理模式与动态代理模式](http://www.open-open.com/home/space-24-do-blog-id-12.html)
 
 [java中注解的使用与实例(一)](http://www.cnblogs.com/pepcod/archive/2013/02/16/2913474.html)
