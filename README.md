@@ -427,6 +427,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## website
 
+[http://www.race604.com/](http://www.race604.com/)
+
 [http://droidcon.de/](http://droidcon.de/)
 
 [DHC plug-in](http://chromecj.com/web-development/2015-08/549.html)
