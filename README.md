@@ -5,6 +5,9 @@ A gitbook about android article...
 
 ## UI:
 
+
+[Android项目Tab类型主界面大总结 Fragment+TabPageIndicator+ViewPager](http://blog.csdn.net/lmj623565791/article/details/24740977)
+
 [emoji处理方式大起底](http://blog.csdn.net/ugg/article/details/44225723)
 
 [MVP Architecture in Android Development](https://medium.com/@kenjuwagatsuma/mvp-architecture-in-android-development-3d63cc32707a#.aur5p6a86)
