@@ -5,6 +5,9 @@ A gitbook about android article...
 
 ## UI:
 
+[Adding a Collage Maker to 
+Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and-ios-apps/)
+
 [How to Make a Paper Folding Animation in Android](http://cases.azoft.com/creating-paper-folding-animation-in-android/)
 
 [Android 吸入动画效果详解](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/0818/1655.html)
