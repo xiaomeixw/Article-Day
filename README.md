@@ -152,6 +152,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[Flux 傻瓜教程](http://zhuanlan.zhihu.com/FrontendMagazine/19900243)
+
 [设计模式UML展示——代理模式](http://blog.csdn.net/gjl_gjl/article/details/4126150)
 
 [Android WebView保存Cookie登录](http://www.open-open.com/lib/view/open1431338463451.html)
