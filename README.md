@@ -5,6 +5,8 @@ A gitbook about android article...
 
 ## UI:
 
+[开源ImageFilter库v0.4：新增26种图片效果](http://www.cnblogs.com/daizhj/archive/2012/06/21/2557550.html)
+
 [Android Animation详解一](http://blog.csdn.net/toyuexinshangwan/article/details/38706885)
 
 [Android. ImageView with SVG Support](http://www.codeproject.com/Articles/130791/Android-ImageView-with-SVG-Support)
