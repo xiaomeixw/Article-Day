@@ -495,7 +495,7 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## website
 
-
+[http://www.tuicool.com](http://www.tuicool.com/kans/2158736792)
 
 [http://www.slideshare.net](http://www.slideshare.net)
 
