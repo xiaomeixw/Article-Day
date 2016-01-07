@@ -183,7 +183,7 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Library
 
-[DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster)
+[DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster):大弹幕时代来临了,这里是Android上最好的开源弹幕引擎·烈焰弹幕使 ～ 被弹幕吞噬吧!
 
 [CRefreshLayout](https://github.com/cloay/CRefreshLayout):A stunning android pull refresh layout inspired by CBStoreHouseRefreshControl.
 
