@@ -151,6 +151,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[Java回顾之反射](http://www.cnblogs.com/wing011203/archive/2013/05/08/3067881.html)
+
 [理解Flux机制和应用](http://blog.csdn.net/wenxuansoft/article/details/46640299)
 
 [Facebook：MVC不适合大规模应用，改用Flux](http://www.infoq.com/cn/news/2014/05/facebook-mvc-flux/)
