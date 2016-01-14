@@ -151,7 +151,7 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
-[Everything every Android Developer must know about new Android's Runtime Permission](http://inthecheesefactory.com/blog/things-you-need-to-know-about-android-m-permission-developer-edition/en?utm_source=tuicool&utm_medium=referral)
+[Everything every Android Developer must know about new Android's Runtime Permission](http://inthecheesefactory.com/blog/things-you-need-to-know-about-android-m-permission-developer-edition/en?utm_source=tuicool&utm_medium=referral)(中译[Android M 新的运行时权限开发者需要知道的一切](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0830/3387.html))
 
 [在Android 6.0 设备上动态获取权限](http://maoruibin.github.io/%E6%8A%80%E6%9C%AF/2015/11/10/android_m_permission.html)
 
