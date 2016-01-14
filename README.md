@@ -151,6 +151,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[Permissions – Part 1](https://blog.stylingandroid.com/permissions-part-1/)(中译[权限管理 －1](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0106/3840.html))
+
 [Tasting Dagger 2 on Android](http://fernandocejas.com/2015/04/11/tasting-dagger-2-on-android/)(中译    [详解Dagger2](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0519/2892.html))
 
 [深入理解Java：注解（Annotation）--注解处理器](http://www.cnblogs.com/peida/archive/2013/04/26/3038503.html)
