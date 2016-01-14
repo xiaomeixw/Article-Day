@@ -4,6 +4,8 @@ A gitbook about android article...
 
 ## UI:
 
+[Android Data Binding](http://segmentfault.com/a/1190000003056818)
+
 [ Android 贝塞尔曲线的魅力](http://blog.csdn.net/qq_21430549/article/details/50040241)
 
 [Android 5.x Theme 与 ToolBar 实战](http://www.open-open.com/lib/view/open1431356199216.html)
