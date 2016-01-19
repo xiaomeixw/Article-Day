@@ -153,6 +153,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[Android Basic Project Architecture for MVP](https://medium.com/mobiwise-blog/android-basic-project-architecture-for-mvp-72f4b33252d0#.6pbhyqnvw)
+
 [compile ‘android:best:1.1.0’](https://medium.com/android-news/compile-android-best-1-0-0-5f8b470d0ad9#.s8hchtkje)
 
 [M—Model in MVC, MVP, MVVC in Android](https://medium.com/@artem_zin/m-model-from-mvc-mvp-in-android-flow-and-mortar-bd1e50c45395#.o3rvwal0x)
