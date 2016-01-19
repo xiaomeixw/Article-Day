@@ -153,6 +153,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[Javaを使うなら知っておきたい技術、フレームワーク、ライブラリ、ツールまとめ](http://qiita.com/disc99/items/727b51dbe737602a5c91)
+
 [Making a Best Practice App #5 Clean Architecture & Testing](https://medium.com/@patrykpoborca/making-a-best-practice-app-5-clean-architecture-testing-84a1672dd000#.o705ix1ss)
 
 [Making a Best Practice App #4 Dagger 2](https://medium.com/@patrykpoborca/making-a-best-practice-app-4-dagger-2-267ec5f6c89a#.qfwv6l4n2)
