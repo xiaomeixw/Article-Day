@@ -156,7 +156,7 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
-
+[Android Architecture](https://medium.com/android-news/android-architecture-2f12e1c7d4db#.xqijowfs6)
 
 [Android Basic Project Architecture for MVP](https://medium.com/mobiwise-blog/android-basic-project-architecture-for-mvp-72f4b33252d0#.6pbhyqnvw)
 
