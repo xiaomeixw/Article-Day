@@ -542,6 +542,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## website
 
+[https://qiita.com/](https://qiita.com/)
+
 [http://blog.iderzheng.com/](http://blog.iderzheng.com/)
 
 [http://www.tuicool.com](http://www.tuicool.com/kans/2158736792)
