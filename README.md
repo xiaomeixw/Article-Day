@@ -396,6 +396,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Library
 
+[絶対必要になるAndroidの生きたライブラリ一覧(2014)](http://qiita.com/wasabeef_jp/items/430bb711b71aece33ba7)
+
 [awesome-android-testing](https://github.com/hotchemi/awesome-android-testing):A curated list of awesome android testing libraries.
 
 [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries):This is an alphabetical list of libraries for Android development, the majority being actively maintained.
