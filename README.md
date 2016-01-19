@@ -4,6 +4,9 @@ A gitbook about android article...
 
 ## UI:
 
+[Two-way Android Data Binding
+How to use two-way Data Binding to manage a layout](https://medium.com/@fabioCollini/android-data-binding-f9f9d3afc761#.62ctzxl56)
+
 [Android Data Binding](http://segmentfault.com/a/1190000003056818)
 
 [ Android 贝塞尔曲线的魅力](http://blog.csdn.net/qq_21430549/article/details/50040241)
@@ -152,6 +155,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 
 ## Logic:
+
+
 
 [Android Basic Project Architecture for MVP](https://medium.com/mobiwise-blog/android-basic-project-architecture-for-mvp-72f4b33252d0#.6pbhyqnvw)
 
