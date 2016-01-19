@@ -153,6 +153,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[M—Model in MVC, MVP, MVVC in Android](https://medium.com/@artem_zin/m-model-from-mvc-mvp-in-android-flow-and-mortar-bd1e50c45395#.o3rvwal0x)
+
 [2015年に備えて知っておきたいリアクティブアーキテクチャの潮流](http://qiita.com/hirokidaichi/items/9c1d862099c2e12f5b0f)
 
 [Javaを使うなら知っておきたい技術、フレームワーク、ライブラリ、ツールまとめ](http://qiita.com/disc99/items/727b51dbe737602a5c91)
