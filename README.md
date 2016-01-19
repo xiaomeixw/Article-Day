@@ -153,6 +153,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[Making a Best Practice App #5 Clean Architecture & Testing](https://medium.com/@patrykpoborca/making-a-best-practice-app-5-clean-architecture-testing-84a1672dd000#.o705ix1ss)
+
 [Making a Best Practice App #4 Dagger 2](https://medium.com/@patrykpoborca/making-a-best-practice-app-4-dagger-2-267ec5f6c89a#.qfwv6l4n2)
 
 [Everything every Android Developer must know about new Android's Runtime Permission](http://inthecheesefactory.com/blog/things-you-need-to-know-about-android-m-permission-developer-edition/en?utm_source=tuicool&utm_medium=referral)(中译[Android M 新的运行时权限开发者需要知道的一切](http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0830/3387.html))
