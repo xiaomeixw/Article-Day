@@ -156,6 +156,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[ Android实现通过浏览器点击链接打开本地应用（APP）并拿到浏览器传递的数据](http://blog.csdn.net/jiangwei0910410003/article/details/23940445)
+
 [Android Architecture](https://medium.com/android-news/android-architecture-2f12e1c7d4db#.xqijowfs6)
 
 [Android Basic Project Architecture for MVP](https://medium.com/mobiwise-blog/android-basic-project-architecture-for-mvp-72f4b33252d0#.6pbhyqnvw)
