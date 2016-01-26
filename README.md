@@ -156,6 +156,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[Aspect Oriented Programming in Android](http://fernandocejas.com/2014/08/03/aspect-oriented-programming-in-android/?utm_source=tuicool&utm_medium=referral)
+
 [更新：通过浏览器直接打开Android应用程序](http://my.oschina.net/liucundong/blog/354029)
 
 [ Android实现通过浏览器点击链接打开本地应用（APP）并拿到浏览器传递的数据](http://blog.csdn.net/jiangwei0910410003/article/details/23940445)
