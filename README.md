@@ -518,6 +518,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Code skills & style
 
+[Generating an SSH key](https://help.github.com/articles/generating-an-ssh-key/)
+
 [有哪些 Android 大牛的 blog 值得推荐？](http://www.zhihu.com/question/19775981)
 
 [Android Application Architecture (Android Dev Summit 2015)](https://www.youtube.com/watch?v=BlkJzgjzL0c&feature=em-subs_digest)
