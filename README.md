@@ -4,7 +4,7 @@ A gitbook about android article...
 
 ## UI:
 
-[http://www.cnblogs.com/tc310/p/4024686.html](Android全屏)
+[Android全屏](http://www.cnblogs.com/tc310/p/4024686.html)
 
 [Two-way Android Data Binding
 How to use two-way Data Binding to manage a layout](https://medium.com/@fabioCollini/android-data-binding-f9f9d3afc761#.62ctzxl56)
