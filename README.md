@@ -156,6 +156,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[纠正对Fragment Transaction BackStack的误解](http://blog.csdn.net/guxiao1201/article/details/40476267)
+
 [如何通过无线网络连接adb](http://blog.csdn.net/alexbxp/article/details/7242083)
 
 [Aspect Oriented Programming in Android](http://fernandocejas.com/2014/08/03/aspect-oriented-programming-in-android/?utm_source=tuicool&utm_medium=referral)
