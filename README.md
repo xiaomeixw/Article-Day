@@ -158,6 +158,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[java自带线程池和队列详细讲解](http://www.oschina.net/question/565065_86540)
+
 [纠正对Fragment Transaction BackStack的误解](http://blog.csdn.net/guxiao1201/article/details/40476267)
 
 [如何通过无线网络连接adb](http://blog.csdn.net/alexbxp/article/details/7242083)
