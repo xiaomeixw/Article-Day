@@ -158,6 +158,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[android传递数据bundle封装传递map对象](http://my.oschina.net/baishi/blog/182931)
+
 [Java并发编程：线程池的使用](http://www.cnblogs.com/dolphin0520/p/3932921.html)
 
 [ScheduledThreadPoolExecutor的scheduleAtFixedRate方法探究](http://www.cnblogs.com/sunxucool/archive/2013/06/21/3148141.html)
