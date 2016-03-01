@@ -158,6 +158,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[android usb流程（转载加整理）](http://www.hzlitai.com.cn/article/ARM11/SYSTEM/Android_USB_develop_lx.html)
+
 [Intent之复杂数据的传递](http://www.runoob.com/w3cnote/android-tutorial-intent-pass-data.html)
 
 [android传递数据bundle封装传递map对象](http://my.oschina.net/baishi/blog/182931)
