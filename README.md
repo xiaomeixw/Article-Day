@@ -158,6 +158,10 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[Android Orm框架(GreenDao)](http://my.oschina.net/u/724985/blog/208038)
+
+[GreenDao官方文档翻译](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1127/2069.html)
+
 [android usb流程（转载加整理）](http://www.hzlitai.com.cn/article/ARM11/SYSTEM/Android_USB_develop_lx.html)
 
 [Intent之复杂数据的传递](http://www.runoob.com/w3cnote/android-tutorial-intent-pass-data.html)
