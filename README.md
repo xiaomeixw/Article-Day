@@ -158,6 +158,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[greenDAO讲义（一）：使用篇](http://my.oschina.net/cheneywangc/blog/196354)
+
 [Android Orm框架(GreenDao)](http://my.oschina.net/u/724985/blog/208038)
 
 [GreenDao官方文档翻译](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1127/2069.html)
