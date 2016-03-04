@@ -158,6 +158,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[ Android BLE开发之Android手机与BLE终端通信](http://blog.csdn.net/hellogv/article/details/24267685)
+
 [greenDAO讲义（一）：使用篇](http://my.oschina.net/cheneywangc/blog/196354)
 
 [Android Orm框架(GreenDao)](http://my.oschina.net/u/724985/blog/208038)
