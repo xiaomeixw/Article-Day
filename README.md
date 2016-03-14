@@ -158,6 +158,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[w3school-SQL](http://www.w3school.com.cn/sql/sql_func_count.asp)
+
 [Android BLE开发之Android手机与BLE终端通信](http://blog.csdn.net/hellogv/article/details/24267685)
 
 [greenDAO讲义（一）：使用篇](http://my.oschina.net/cheneywangc/blog/196354)
