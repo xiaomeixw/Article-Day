@@ -158,6 +158,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[Android : 如何得到Activities栈顶的Activity名称](http://blog.sina.com.cn/s/blog_4c0706560101063n.html)
+
 [常用SQL查询语句](http://www.cnblogs.com/sunada2005/p/3411873.html)
 
 [w3school-SQL](http://www.w3school.com.cn/sql/sql_func_count.asp)
