@@ -158,6 +158,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[Android自动化压力测试图解教程——Monkey工具](http://blog.csdn.net/lfyx1357/article/details/7418133)
+
 [低功耗蓝牙 （BLE）开发各种坑](http://my.oschina.net/u/1414017/blog/599996)
 
 [低功耗蓝牙（BLE）](http://my.oschina.net/tingzi/blog/215008)
