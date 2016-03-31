@@ -158,6 +158,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[Android学习笔记（五三）：服务Service（下）- Remote Service](http://blog.csdn.net/flowingflying/article/details/8030609)
+
 [Android中Messenger的使用](http://my.oschina.net/u/262208/blog/378249)
 
 [一步一步掌握线程机制(六)---Atomic变量和Thread局部变量](http://www.cnblogs.com/wenjiang/p/3276433.html)
