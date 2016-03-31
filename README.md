@@ -158,6 +158,12 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[Android中Messenger的使用](http://my.oschina.net/u/262208/blog/378249)
+
+[一步一步掌握线程机制(六)---Atomic变量和Thread局部变量](http://www.cnblogs.com/wenjiang/p/3276433.html)
+
+[ReentrantLock与synchronized](http://www.ibm.com/developerworks/cn/java/j-jtp10264/index.html)
+
 [Android自动化压力测试图解教程——Monkey工具](http://blog.csdn.net/lfyx1357/article/details/7418133)
 
 [低功耗蓝牙 （BLE）开发各种坑](http://my.oschina.net/u/1414017/blog/599996)
