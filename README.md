@@ -564,6 +564,10 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Code skills & style
 
+[Git 常用命令整理](http://justcoding.iteye.com/blog/1830388)
+
+[Linux-SSH](http://jingyan.baidu.com/article/9c69d48fb9fd7b13c8024e6b.html)
+
 [http://www.cnblogs.com/mengdd/p/4153773.html](http://www.cnblogs.com/mengdd/p/4153773.html)
 
 [Gerrit代码审核服务器搭建全过程](http://blog.csdn.net/ganshuyu/article/details/8978614)
