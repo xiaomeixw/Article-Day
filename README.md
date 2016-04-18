@@ -564,6 +564,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Code skills & style
 
+[Gerrit代码审核服务器搭建全过程](http://blog.csdn.net/ganshuyu/article/details/8978614)
+
 [烤鸭的gerrit使用总结](http://blog.csdn.net/benkaoya/article/details/8680886)
 
 [Generating an SSH key](https://help.github.com/articles/generating-an-ssh-key/)
