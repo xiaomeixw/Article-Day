@@ -564,6 +564,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Code skills & style
 
+[烤鸭的gerrit使用总结](http://blog.csdn.net/benkaoya/article/details/8680886)
+
 [Generating an SSH key](https://help.github.com/articles/generating-an-ssh-key/)
 
 [有哪些 Android 大牛的 blog 值得推荐？](http://www.zhihu.com/question/19775981)
