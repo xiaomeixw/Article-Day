@@ -158,6 +158,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[Dagger——Android上的依赖注入框架](http://my.oschina.net/rengwuxian/blog/287892?p=1#comments)
+
 [聊聊并发（六）ConcurrentLinkedQueue的实现原理分析](http://ifeve.com/concurrentlinkedqueue/)
 
 [Android学习笔记（五三）：服务Service（下）- Remote Service](http://blog.csdn.net/flowingflying/article/details/8030609)
