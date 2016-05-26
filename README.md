@@ -157,6 +157,7 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 
 ## Logic:
+[http://blog.csdn.net/gophers/article/details/37968501](http://blog.csdn.net/gophers/article/details/37968501)
 
 [Dagger——Android上的依赖注入框架](http://my.oschina.net/rengwuxian/blog/287892?p=1#comments)
 
