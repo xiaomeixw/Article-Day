@@ -157,6 +157,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 
 ## Logic:
+[来自Google的响应式——Agera](http://www.cnblogs.com/fishbone-lsy/p/5413247.html)
+
 [初识Agera(一)——基本概念和原理的介绍](http://www.open-open.com/lib/view/open1461748167891.html)
 
 [Android网络服务发现(NSD)协议的使用](http://blog.csdn.net/gophers/article/details/37968501)
