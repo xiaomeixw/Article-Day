@@ -157,6 +157,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 
 ## Logic:
+[Google Agera 从入门到放弃](http://www.tuicool.com/articles/b63Ifae)
+
 [JSON的三种解析方式](http://www.2cto.com/kf/201401/270452.html)
 
 [来自Google的响应式——Agera](http://www.cnblogs.com/fishbone-lsy/p/5413247.html)
