@@ -157,6 +157,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 
 ## Logic:
+[Dagger2从入门到放弃再到恍然大悟](http://www.jianshu.com/p/39d1df6c877d)
+
 [Google Agera 从入门到放弃](http://blog.chengyunfeng.com/?p=984)
 
 [JSON的三种解析方式](http://www.2cto.com/kf/201401/270452.html)
