@@ -157,6 +157,10 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 
 ## Logic:
+
+
+[TCP](http://kb.cnblogs.com/page/209100/)
+
 [BlockingQueue、PriorityBlockingQueue](http://blog.csdn.net/i_lovefish/article/details/26145139)
 
 [Dagger2从入门到放弃再到恍然大悟](http://www.jianshu.com/p/39d1df6c877d)
