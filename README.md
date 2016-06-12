@@ -608,6 +608,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 [Android code style guidelines](https://source.android.com/source/code-style.html)
 
+[Eight Ways Your Android App Can Leak Memory](http://blog.nimbledroid.com/2016/05/23/memory-leaks.html)
+
 
 ## Issue
 
