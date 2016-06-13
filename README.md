@@ -157,6 +157,11 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 
 ## Logic:
+
+
+
+[CRC8校验分析](http://blog.csdn.net/husion01/article/details/17440333)
+
 [TCP的SEQ和ACK的生成](http://www.2cto.com/net/201307/232339.html)
 
 [TCP](http://kb.cnblogs.com/page/209100/)
