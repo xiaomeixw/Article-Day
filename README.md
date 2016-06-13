@@ -158,7 +158,11 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[循环冗余校验（CRC）算法入门引导](http://blog.csdn.net/liyuanbhu/article/details/7882789)
 
+[Java CRC8校验](http://blog.csdn.net/trbbadboy/article/details/16859937)
+
+[CRC8校验的java实现](http://www.xuebuyuan.com/702737.html?mobile=1)
 
 [CRC8校验分析](http://blog.csdn.net/husion01/article/details/17440333)
 
