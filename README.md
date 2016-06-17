@@ -158,6 +158,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[Java对象克隆（Clone）及Cloneable接口、Serializable接口的深入探讨](http://kentkwan.iteye.com/blog/739514)
+
 [循环冗余校验（CRC）算法入门引导](http://blog.csdn.net/liyuanbhu/article/details/7882789)
 
 [Java CRC8校验](http://blog.csdn.net/trbbadboy/article/details/16859937)
