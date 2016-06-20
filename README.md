@@ -158,6 +158,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[关于一个字符占多少个字节的问题](http://bbs.csdn.net/topics/390808083)
+
 [Java对象克隆（Clone）及Cloneable接口、Serializable接口的深入探讨](http://kentkwan.iteye.com/blog/739514)
 
 [循环冗余校验（CRC）算法入门引导](http://blog.csdn.net/liyuanbhu/article/details/7882789)
