@@ -158,6 +158,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[低功耗蓝牙（BLE）在 Android APP 中的应用](http://blog.csdn.net/yaoobs/article/details/51226932)
+
 [Android手机间无线互传功能探索及实现](http://www.cnblogs.com/zealotrouge/p/3544146.html)
 
 [关于一个字符占多少个字节的问题](http://bbs.csdn.net/topics/390808083)
