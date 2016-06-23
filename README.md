@@ -158,6 +158,8 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 ## Logic:
 
+[解析 CC2541 的 BLE 数据包为什么是 20 字节](http://blog.csdn.net/haozi0_0/article/details/50426891)
+
 [低功耗蓝牙（BLE）在 Android APP 中的应用](http://blog.csdn.net/yaoobs/article/details/51226932)
 
 [Android手机间无线互传功能探索及实现](http://www.cnblogs.com/zealotrouge/p/3544146.html)
