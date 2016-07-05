@@ -157,6 +157,7 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 
 ## Logic:
+[Socket](http://blog.csdn.net/maoxiao1229/article/details/22886337)
 
 [Clean Android Code](https://medium.com/android-news/keep-your-droid-clean-e9c093140eb6#.kqocdw8hu)
 
