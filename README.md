@@ -157,6 +157,9 @@ Android and iOS Apps](http://cases.azoft.com/adding-collage-maker-to-android-and
 
 
 ## Logic:
+
+[Android：学习AIDL，这一篇文章就够了(上)](http://www.open-open.com/lib/view/open1469493649028.html)
+
 [Socket](http://blog.csdn.net/maoxiao1229/article/details/22886337)
 
 [Clean Android Code](https://medium.com/android-news/keep-your-droid-clean-e9c093140eb6#.kqocdw8hu)
